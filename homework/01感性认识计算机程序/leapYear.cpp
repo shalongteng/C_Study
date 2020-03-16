@@ -15,20 +15,22 @@
 //    cin >> year;
 //    if (year % 4 == 0)
 //    {
-//        if (year % 400 == 0)
+//
+//        if (year % 100 == 0)
 //        {
-//            cout << year << "是世纪闰年" << endl;
-//        }
-//        else if(year % 100 == 0)
-//        {
-//            cout << year << "不是闰年" << endl;
-//        }
-//        else
+//            if (year % 400 == 0)
+//            {
+//                cout << year << "是世纪闰年" << endl;
+//            } else {
+//
+//                cout << year << "不是闰年" << endl;
+//            }
+//        } else
 //        {
 //            cout << year << "是普通闰年" << endl;
+//
 //        }
-//    } else
-//    {
+//    } else {
 //        cout << year << "不是闰年" << endl;
 //    }
 //    return 0;
