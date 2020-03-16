@@ -96,11 +96,417 @@ CMakeFiles/C_Study.dir/debug.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/debug.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/debug.cpp -o CMakeFiles/C_Study.dir/debug.cpp.s
 
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.o: ../homework/01感性认识计算机程序/贝贝找晶晶.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/贝贝找晶晶.cpp
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/贝贝找晶晶.cpp > CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.i
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/贝贝找晶晶.cpp -o CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.s
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.o: ../homework/01感性认识计算机程序/leapYear.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/leapYear.cpp
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/leapYear.cpp > CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.i
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/leapYear.cpp -o CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.s
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.o: ../homework/01感性认识计算机程序/鸡兔同笼.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/鸡兔同笼.cpp
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/鸡兔同笼.cpp > CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.i
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/鸡兔同笼.cpp -o CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.s
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.o: ../homework/01感性认识计算机程序/奇数求和.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/奇数求和.cpp
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/奇数求和.cpp > CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.i
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/奇数求和.cpp -o CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.s
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.o: ../homework/01感性认识计算机程序/与7无关的数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/与7无关的数.cpp
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/与7无关的数.cpp > CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.i
+
+CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/与7无关的数.cpp -o CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.s
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.o: ../homework/02从现实问题到计算基础程序/计算三角形面积.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/计算三角形面积.cpp
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/计算三角形面积.cpp > CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.i
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/计算三角形面积.cpp -o CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.s
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.o: ../homework/02从现实问题到计算基础程序/数组逆序重放.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/数组逆序重放.cpp
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/数组逆序重放.cpp > CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.i
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/数组逆序重放.cpp -o CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.s
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.o: ../homework/02从现实问题到计算基础程序/点和正方形的关系.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp > CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.i
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp -o CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.s
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.o: ../homework/02从现实问题到计算基础程序/三角形判断.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/三角形判断.cpp
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/三角形判断.cpp > CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.i
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/三角形判断.cpp -o CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.s
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.o: ../homework/02从现实问题到计算基础程序/1的个数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/1的个数.cpp
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/1的个数.cpp > CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.i
+
+CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/1的个数.cpp -o CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.s
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.o: ../homework/03c语言中的数据成分/数据类型.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building C object CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.o   -c /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/数据类型.c
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.i"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/数据类型.c > CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.i
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.s"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/数据类型.c -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.s
+
+CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.o: ../schoolwork/第一周/输出学号.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第一周/输出学号.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第一周/输出学号.cpp > CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第一周/输出学号.cpp -o CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.s
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.o: ../homework/03c语言中的数据成分/整数的个数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/整数的个数.cpp
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/整数的个数.cpp > CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.i
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/整数的个数.cpp -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.s
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.o: ../homework/03c语言中的数据成分/奥运奖牌计数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/奥运奖牌计数.cpp
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/奥运奖牌计数.cpp > CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.i
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/奥运奖牌计数.cpp -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.s
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o: ../homework/03c语言中的数据成分/能被3，5，7整除的数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp > CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.i
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.s
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.o: ../homework/03c语言中的数据成分/细菌的战争.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/细菌的战争.cpp
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/细菌的战争.cpp > CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.i
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/细菌的战争.cpp -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.o: ../schoolwork/数据类型/逆序打印.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/数据类型/逆序打印.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/数据类型/逆序打印.cpp > CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/数据类型/逆序打印.cpp -o CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.o: ../schoolwork/数据类型/温度转换.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/数据类型/温度转换.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/数据类型/温度转换.cpp > CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/数据类型/温度转换.cpp -o CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.o: ../schoolwork/第四章/test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/test.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/test.cpp > CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/test.cpp -o CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.o: ../schoolwork/第四章/时刻转换.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/时刻转换.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/时刻转换.cpp > CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/时刻转换.cpp -o CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.o: ../schoolwork/第四章/进制转换.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/进制转换.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/进制转换.cpp > CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/进制转换.cpp -o CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.o: ../schoolwork/第五章/星期推算.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/星期推算.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/星期推算.cpp > CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/星期推算.cpp -o CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.o: ../schoolwork/第五章/特征数判断.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/特征数判断.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/特征数判断.cpp > CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/特征数判断.cpp -o CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.o: ../schoolwork/第五章/天数判断.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/天数判断.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/天数判断.cpp > CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/天数判断.cpp -o CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.o: ../schoolwork/第六章/test.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/test.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/test.cpp > CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/test.cpp -o CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.o: ../schoolwork/第六章/图形打印.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/图形打印.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/图形打印.cpp > CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/图形打印.cpp -o CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.o: ../schoolwork/第六章/特征四位数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/特征四位数.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/特征四位数.cpp > CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/特征四位数.cpp -o CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.o: ../schoolwork/第六章/求和S.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/求和S.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/求和S.cpp > CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/求和S.cpp -o CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.s
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o: ../schoolwork/第六章/追查车号.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/追查车号.cpp
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/追查车号.cpp > CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.i
+
+CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/追查车号.cpp -o CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.s
+
 # Object files for target C_Study
 C_Study_OBJECTS = \
 "CMakeFiles/C_Study.dir/main.cpp.o" \
 "CMakeFiles/C_Study.dir/area.cpp.o" \
-"CMakeFiles/C_Study.dir/debug.cpp.o"
+"CMakeFiles/C_Study.dir/debug.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.o" \
+"CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o"
 
 # External object files for target C_Study
 C_Study_EXTERNAL_OBJECTS =
@@ -108,9 +514,38 @@ C_Study_EXTERNAL_OBJECTS =
 C_Study: CMakeFiles/C_Study.dir/main.cpp.o
 C_Study: CMakeFiles/C_Study.dir/area.cpp.o
 C_Study: CMakeFiles/C_Study.dir/debug.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.o
+C_Study: CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o
 C_Study: CMakeFiles/C_Study.dir/build.make
 C_Study: CMakeFiles/C_Study.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable C_Study"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable C_Study"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_Study.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

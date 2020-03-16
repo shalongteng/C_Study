@@ -177,6 +177,411 @@ debug.cpp.s:
 	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/debug.cpp.s
 .PHONY : debug.cpp.s
 
+homework/01感性认识计算机程序/leapYear.o: homework/01感性认识计算机程序/leapYear.cpp.o
+
+.PHONY : homework/01感性认识计算机程序/leapYear.o
+
+# target to build an object file
+homework/01感性认识计算机程序/leapYear.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.o
+.PHONY : homework/01感性认识计算机程序/leapYear.cpp.o
+
+homework/01感性认识计算机程序/leapYear.i: homework/01感性认识计算机程序/leapYear.cpp.i
+
+.PHONY : homework/01感性认识计算机程序/leapYear.i
+
+# target to preprocess a source file
+homework/01感性认识计算机程序/leapYear.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.i
+.PHONY : homework/01感性认识计算机程序/leapYear.cpp.i
+
+homework/01感性认识计算机程序/leapYear.s: homework/01感性认识计算机程序/leapYear.cpp.s
+
+.PHONY : homework/01感性认识计算机程序/leapYear.s
+
+# target to generate assembly for a file
+homework/01感性认识计算机程序/leapYear.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/leapYear.cpp.s
+.PHONY : homework/01感性认识计算机程序/leapYear.cpp.s
+
+homework/01感性认识计算机程序/与7无关的数.o: homework/01感性认识计算机程序/与7无关的数.cpp.o
+
+.PHONY : homework/01感性认识计算机程序/与7无关的数.o
+
+# target to build an object file
+homework/01感性认识计算机程序/与7无关的数.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.o
+.PHONY : homework/01感性认识计算机程序/与7无关的数.cpp.o
+
+homework/01感性认识计算机程序/与7无关的数.i: homework/01感性认识计算机程序/与7无关的数.cpp.i
+
+.PHONY : homework/01感性认识计算机程序/与7无关的数.i
+
+# target to preprocess a source file
+homework/01感性认识计算机程序/与7无关的数.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.i
+.PHONY : homework/01感性认识计算机程序/与7无关的数.cpp.i
+
+homework/01感性认识计算机程序/与7无关的数.s: homework/01感性认识计算机程序/与7无关的数.cpp.s
+
+.PHONY : homework/01感性认识计算机程序/与7无关的数.s
+
+# target to generate assembly for a file
+homework/01感性认识计算机程序/与7无关的数.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/与7无关的数.cpp.s
+.PHONY : homework/01感性认识计算机程序/与7无关的数.cpp.s
+
+homework/01感性认识计算机程序/奇数求和.o: homework/01感性认识计算机程序/奇数求和.cpp.o
+
+.PHONY : homework/01感性认识计算机程序/奇数求和.o
+
+# target to build an object file
+homework/01感性认识计算机程序/奇数求和.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.o
+.PHONY : homework/01感性认识计算机程序/奇数求和.cpp.o
+
+homework/01感性认识计算机程序/奇数求和.i: homework/01感性认识计算机程序/奇数求和.cpp.i
+
+.PHONY : homework/01感性认识计算机程序/奇数求和.i
+
+# target to preprocess a source file
+homework/01感性认识计算机程序/奇数求和.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.i
+.PHONY : homework/01感性认识计算机程序/奇数求和.cpp.i
+
+homework/01感性认识计算机程序/奇数求和.s: homework/01感性认识计算机程序/奇数求和.cpp.s
+
+.PHONY : homework/01感性认识计算机程序/奇数求和.s
+
+# target to generate assembly for a file
+homework/01感性认识计算机程序/奇数求和.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/奇数求和.cpp.s
+.PHONY : homework/01感性认识计算机程序/奇数求和.cpp.s
+
+homework/01感性认识计算机程序/贝贝找晶晶.o: homework/01感性认识计算机程序/贝贝找晶晶.cpp.o
+
+.PHONY : homework/01感性认识计算机程序/贝贝找晶晶.o
+
+# target to build an object file
+homework/01感性认识计算机程序/贝贝找晶晶.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.o
+.PHONY : homework/01感性认识计算机程序/贝贝找晶晶.cpp.o
+
+homework/01感性认识计算机程序/贝贝找晶晶.i: homework/01感性认识计算机程序/贝贝找晶晶.cpp.i
+
+.PHONY : homework/01感性认识计算机程序/贝贝找晶晶.i
+
+# target to preprocess a source file
+homework/01感性认识计算机程序/贝贝找晶晶.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.i
+.PHONY : homework/01感性认识计算机程序/贝贝找晶晶.cpp.i
+
+homework/01感性认识计算机程序/贝贝找晶晶.s: homework/01感性认识计算机程序/贝贝找晶晶.cpp.s
+
+.PHONY : homework/01感性认识计算机程序/贝贝找晶晶.s
+
+# target to generate assembly for a file
+homework/01感性认识计算机程序/贝贝找晶晶.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/贝贝找晶晶.cpp.s
+.PHONY : homework/01感性认识计算机程序/贝贝找晶晶.cpp.s
+
+homework/01感性认识计算机程序/鸡兔同笼.o: homework/01感性认识计算机程序/鸡兔同笼.cpp.o
+
+.PHONY : homework/01感性认识计算机程序/鸡兔同笼.o
+
+# target to build an object file
+homework/01感性认识计算机程序/鸡兔同笼.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.o
+.PHONY : homework/01感性认识计算机程序/鸡兔同笼.cpp.o
+
+homework/01感性认识计算机程序/鸡兔同笼.i: homework/01感性认识计算机程序/鸡兔同笼.cpp.i
+
+.PHONY : homework/01感性认识计算机程序/鸡兔同笼.i
+
+# target to preprocess a source file
+homework/01感性认识计算机程序/鸡兔同笼.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.i
+.PHONY : homework/01感性认识计算机程序/鸡兔同笼.cpp.i
+
+homework/01感性认识计算机程序/鸡兔同笼.s: homework/01感性认识计算机程序/鸡兔同笼.cpp.s
+
+.PHONY : homework/01感性认识计算机程序/鸡兔同笼.s
+
+# target to generate assembly for a file
+homework/01感性认识计算机程序/鸡兔同笼.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/01感性认识计算机程序/鸡兔同笼.cpp.s
+.PHONY : homework/01感性认识计算机程序/鸡兔同笼.cpp.s
+
+homework/02从现实问题到计算基础程序/1的个数.o: homework/02从现实问题到计算基础程序/1的个数.cpp.o
+
+.PHONY : homework/02从现实问题到计算基础程序/1的个数.o
+
+# target to build an object file
+homework/02从现实问题到计算基础程序/1的个数.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.o
+.PHONY : homework/02从现实问题到计算基础程序/1的个数.cpp.o
+
+homework/02从现实问题到计算基础程序/1的个数.i: homework/02从现实问题到计算基础程序/1的个数.cpp.i
+
+.PHONY : homework/02从现实问题到计算基础程序/1的个数.i
+
+# target to preprocess a source file
+homework/02从现实问题到计算基础程序/1的个数.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.i
+.PHONY : homework/02从现实问题到计算基础程序/1的个数.cpp.i
+
+homework/02从现实问题到计算基础程序/1的个数.s: homework/02从现实问题到计算基础程序/1的个数.cpp.s
+
+.PHONY : homework/02从现实问题到计算基础程序/1的个数.s
+
+# target to generate assembly for a file
+homework/02从现实问题到计算基础程序/1的个数.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/1的个数.cpp.s
+.PHONY : homework/02从现实问题到计算基础程序/1的个数.cpp.s
+
+homework/02从现实问题到计算基础程序/三角形判断.o: homework/02从现实问题到计算基础程序/三角形判断.cpp.o
+
+.PHONY : homework/02从现实问题到计算基础程序/三角形判断.o
+
+# target to build an object file
+homework/02从现实问题到计算基础程序/三角形判断.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.o
+.PHONY : homework/02从现实问题到计算基础程序/三角形判断.cpp.o
+
+homework/02从现实问题到计算基础程序/三角形判断.i: homework/02从现实问题到计算基础程序/三角形判断.cpp.i
+
+.PHONY : homework/02从现实问题到计算基础程序/三角形判断.i
+
+# target to preprocess a source file
+homework/02从现实问题到计算基础程序/三角形判断.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.i
+.PHONY : homework/02从现实问题到计算基础程序/三角形判断.cpp.i
+
+homework/02从现实问题到计算基础程序/三角形判断.s: homework/02从现实问题到计算基础程序/三角形判断.cpp.s
+
+.PHONY : homework/02从现实问题到计算基础程序/三角形判断.s
+
+# target to generate assembly for a file
+homework/02从现实问题到计算基础程序/三角形判断.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/三角形判断.cpp.s
+.PHONY : homework/02从现实问题到计算基础程序/三角形判断.cpp.s
+
+homework/02从现实问题到计算基础程序/数组逆序重放.o: homework/02从现实问题到计算基础程序/数组逆序重放.cpp.o
+
+.PHONY : homework/02从现实问题到计算基础程序/数组逆序重放.o
+
+# target to build an object file
+homework/02从现实问题到计算基础程序/数组逆序重放.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.o
+.PHONY : homework/02从现实问题到计算基础程序/数组逆序重放.cpp.o
+
+homework/02从现实问题到计算基础程序/数组逆序重放.i: homework/02从现实问题到计算基础程序/数组逆序重放.cpp.i
+
+.PHONY : homework/02从现实问题到计算基础程序/数组逆序重放.i
+
+# target to preprocess a source file
+homework/02从现实问题到计算基础程序/数组逆序重放.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.i
+.PHONY : homework/02从现实问题到计算基础程序/数组逆序重放.cpp.i
+
+homework/02从现实问题到计算基础程序/数组逆序重放.s: homework/02从现实问题到计算基础程序/数组逆序重放.cpp.s
+
+.PHONY : homework/02从现实问题到计算基础程序/数组逆序重放.s
+
+# target to generate assembly for a file
+homework/02从现实问题到计算基础程序/数组逆序重放.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/数组逆序重放.cpp.s
+.PHONY : homework/02从现实问题到计算基础程序/数组逆序重放.cpp.s
+
+homework/02从现实问题到计算基础程序/点和正方形的关系.o: homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.o
+
+.PHONY : homework/02从现实问题到计算基础程序/点和正方形的关系.o
+
+# target to build an object file
+homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.o
+.PHONY : homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.o
+
+homework/02从现实问题到计算基础程序/点和正方形的关系.i: homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.i
+
+.PHONY : homework/02从现实问题到计算基础程序/点和正方形的关系.i
+
+# target to preprocess a source file
+homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.i
+.PHONY : homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.i
+
+homework/02从现实问题到计算基础程序/点和正方形的关系.s: homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.s
+
+.PHONY : homework/02从现实问题到计算基础程序/点和正方形的关系.s
+
+# target to generate assembly for a file
+homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.s
+.PHONY : homework/02从现实问题到计算基础程序/点和正方形的关系.cpp.s
+
+homework/02从现实问题到计算基础程序/计算三角形面积.o: homework/02从现实问题到计算基础程序/计算三角形面积.cpp.o
+
+.PHONY : homework/02从现实问题到计算基础程序/计算三角形面积.o
+
+# target to build an object file
+homework/02从现实问题到计算基础程序/计算三角形面积.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.o
+.PHONY : homework/02从现实问题到计算基础程序/计算三角形面积.cpp.o
+
+homework/02从现实问题到计算基础程序/计算三角形面积.i: homework/02从现实问题到计算基础程序/计算三角形面积.cpp.i
+
+.PHONY : homework/02从现实问题到计算基础程序/计算三角形面积.i
+
+# target to preprocess a source file
+homework/02从现实问题到计算基础程序/计算三角形面积.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.i
+.PHONY : homework/02从现实问题到计算基础程序/计算三角形面积.cpp.i
+
+homework/02从现实问题到计算基础程序/计算三角形面积.s: homework/02从现实问题到计算基础程序/计算三角形面积.cpp.s
+
+.PHONY : homework/02从现实问题到计算基础程序/计算三角形面积.s
+
+# target to generate assembly for a file
+homework/02从现实问题到计算基础程序/计算三角形面积.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/02从现实问题到计算基础程序/计算三角形面积.cpp.s
+.PHONY : homework/02从现实问题到计算基础程序/计算三角形面积.cpp.s
+
+homework/03c语言中的数据成分/奥运奖牌计数.o: homework/03c语言中的数据成分/奥运奖牌计数.cpp.o
+
+.PHONY : homework/03c语言中的数据成分/奥运奖牌计数.o
+
+# target to build an object file
+homework/03c语言中的数据成分/奥运奖牌计数.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.o
+.PHONY : homework/03c语言中的数据成分/奥运奖牌计数.cpp.o
+
+homework/03c语言中的数据成分/奥运奖牌计数.i: homework/03c语言中的数据成分/奥运奖牌计数.cpp.i
+
+.PHONY : homework/03c语言中的数据成分/奥运奖牌计数.i
+
+# target to preprocess a source file
+homework/03c语言中的数据成分/奥运奖牌计数.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.i
+.PHONY : homework/03c语言中的数据成分/奥运奖牌计数.cpp.i
+
+homework/03c语言中的数据成分/奥运奖牌计数.s: homework/03c语言中的数据成分/奥运奖牌计数.cpp.s
+
+.PHONY : homework/03c语言中的数据成分/奥运奖牌计数.s
+
+# target to generate assembly for a file
+homework/03c语言中的数据成分/奥运奖牌计数.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/奥运奖牌计数.cpp.s
+.PHONY : homework/03c语言中的数据成分/奥运奖牌计数.cpp.s
+
+homework/03c语言中的数据成分/数据类型.o: homework/03c语言中的数据成分/数据类型.c.o
+
+.PHONY : homework/03c语言中的数据成分/数据类型.o
+
+# target to build an object file
+homework/03c语言中的数据成分/数据类型.c.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.o
+.PHONY : homework/03c语言中的数据成分/数据类型.c.o
+
+homework/03c语言中的数据成分/数据类型.i: homework/03c语言中的数据成分/数据类型.c.i
+
+.PHONY : homework/03c语言中的数据成分/数据类型.i
+
+# target to preprocess a source file
+homework/03c语言中的数据成分/数据类型.c.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.i
+.PHONY : homework/03c语言中的数据成分/数据类型.c.i
+
+homework/03c语言中的数据成分/数据类型.s: homework/03c语言中的数据成分/数据类型.c.s
+
+.PHONY : homework/03c语言中的数据成分/数据类型.s
+
+# target to generate assembly for a file
+homework/03c语言中的数据成分/数据类型.c.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/数据类型.c.s
+.PHONY : homework/03c语言中的数据成分/数据类型.c.s
+
+homework/03c语言中的数据成分/整数的个数.o: homework/03c语言中的数据成分/整数的个数.cpp.o
+
+.PHONY : homework/03c语言中的数据成分/整数的个数.o
+
+# target to build an object file
+homework/03c语言中的数据成分/整数的个数.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.o
+.PHONY : homework/03c语言中的数据成分/整数的个数.cpp.o
+
+homework/03c语言中的数据成分/整数的个数.i: homework/03c语言中的数据成分/整数的个数.cpp.i
+
+.PHONY : homework/03c语言中的数据成分/整数的个数.i
+
+# target to preprocess a source file
+homework/03c语言中的数据成分/整数的个数.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.i
+.PHONY : homework/03c语言中的数据成分/整数的个数.cpp.i
+
+homework/03c语言中的数据成分/整数的个数.s: homework/03c语言中的数据成分/整数的个数.cpp.s
+
+.PHONY : homework/03c语言中的数据成分/整数的个数.s
+
+# target to generate assembly for a file
+homework/03c语言中的数据成分/整数的个数.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.s
+.PHONY : homework/03c语言中的数据成分/整数的个数.cpp.s
+
+homework/03c语言中的数据成分/细菌的战争.o: homework/03c语言中的数据成分/细菌的战争.cpp.o
+
+.PHONY : homework/03c语言中的数据成分/细菌的战争.o
+
+# target to build an object file
+homework/03c语言中的数据成分/细菌的战争.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.o
+.PHONY : homework/03c语言中的数据成分/细菌的战争.cpp.o
+
+homework/03c语言中的数据成分/细菌的战争.i: homework/03c语言中的数据成分/细菌的战争.cpp.i
+
+.PHONY : homework/03c语言中的数据成分/细菌的战争.i
+
+# target to preprocess a source file
+homework/03c语言中的数据成分/细菌的战争.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.i
+.PHONY : homework/03c语言中的数据成分/细菌的战争.cpp.i
+
+homework/03c语言中的数据成分/细菌的战争.s: homework/03c语言中的数据成分/细菌的战争.cpp.s
+
+.PHONY : homework/03c语言中的数据成分/细菌的战争.s
+
+# target to generate assembly for a file
+homework/03c语言中的数据成分/细菌的战争.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.s
+.PHONY : homework/03c语言中的数据成分/细菌的战争.cpp.s
+
+homework/03c语言中的数据成分/能被3，5，7整除的数.o: homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o
+
+.PHONY : homework/03c语言中的数据成分/能被3，5，7整除的数.o
+
+# target to build an object file
+homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o
+.PHONY : homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o
+
+homework/03c语言中的数据成分/能被3，5，7整除的数.i: homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.i
+
+.PHONY : homework/03c语言中的数据成分/能被3，5，7整除的数.i
+
+# target to preprocess a source file
+homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.i
+.PHONY : homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.i
+
+homework/03c语言中的数据成分/能被3，5，7整除的数.s: homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.s
+
+.PHONY : homework/03c语言中的数据成分/能被3，5，7整除的数.s
+
+# target to generate assembly for a file
+homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.s
+.PHONY : homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -204,6 +609,384 @@ main.cpp.s:
 	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+schoolwork/数据类型/温度转换.o: schoolwork/数据类型/温度转换.cpp.o
+
+.PHONY : schoolwork/数据类型/温度转换.o
+
+# target to build an object file
+schoolwork/数据类型/温度转换.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.o
+.PHONY : schoolwork/数据类型/温度转换.cpp.o
+
+schoolwork/数据类型/温度转换.i: schoolwork/数据类型/温度转换.cpp.i
+
+.PHONY : schoolwork/数据类型/温度转换.i
+
+# target to preprocess a source file
+schoolwork/数据类型/温度转换.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.i
+.PHONY : schoolwork/数据类型/温度转换.cpp.i
+
+schoolwork/数据类型/温度转换.s: schoolwork/数据类型/温度转换.cpp.s
+
+.PHONY : schoolwork/数据类型/温度转换.s
+
+# target to generate assembly for a file
+schoolwork/数据类型/温度转换.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.s
+.PHONY : schoolwork/数据类型/温度转换.cpp.s
+
+schoolwork/数据类型/逆序打印.o: schoolwork/数据类型/逆序打印.cpp.o
+
+.PHONY : schoolwork/数据类型/逆序打印.o
+
+# target to build an object file
+schoolwork/数据类型/逆序打印.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.o
+.PHONY : schoolwork/数据类型/逆序打印.cpp.o
+
+schoolwork/数据类型/逆序打印.i: schoolwork/数据类型/逆序打印.cpp.i
+
+.PHONY : schoolwork/数据类型/逆序打印.i
+
+# target to preprocess a source file
+schoolwork/数据类型/逆序打印.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.i
+.PHONY : schoolwork/数据类型/逆序打印.cpp.i
+
+schoolwork/数据类型/逆序打印.s: schoolwork/数据类型/逆序打印.cpp.s
+
+.PHONY : schoolwork/数据类型/逆序打印.s
+
+# target to generate assembly for a file
+schoolwork/数据类型/逆序打印.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.s
+.PHONY : schoolwork/数据类型/逆序打印.cpp.s
+
+schoolwork/第一周/输出学号.o: schoolwork/第一周/输出学号.cpp.o
+
+.PHONY : schoolwork/第一周/输出学号.o
+
+# target to build an object file
+schoolwork/第一周/输出学号.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.o
+.PHONY : schoolwork/第一周/输出学号.cpp.o
+
+schoolwork/第一周/输出学号.i: schoolwork/第一周/输出学号.cpp.i
+
+.PHONY : schoolwork/第一周/输出学号.i
+
+# target to preprocess a source file
+schoolwork/第一周/输出学号.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.i
+.PHONY : schoolwork/第一周/输出学号.cpp.i
+
+schoolwork/第一周/输出学号.s: schoolwork/第一周/输出学号.cpp.s
+
+.PHONY : schoolwork/第一周/输出学号.s
+
+# target to generate assembly for a file
+schoolwork/第一周/输出学号.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第一周/输出学号.cpp.s
+.PHONY : schoolwork/第一周/输出学号.cpp.s
+
+schoolwork/第五章/天数判断.o: schoolwork/第五章/天数判断.cpp.o
+
+.PHONY : schoolwork/第五章/天数判断.o
+
+# target to build an object file
+schoolwork/第五章/天数判断.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.o
+.PHONY : schoolwork/第五章/天数判断.cpp.o
+
+schoolwork/第五章/天数判断.i: schoolwork/第五章/天数判断.cpp.i
+
+.PHONY : schoolwork/第五章/天数判断.i
+
+# target to preprocess a source file
+schoolwork/第五章/天数判断.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.i
+.PHONY : schoolwork/第五章/天数判断.cpp.i
+
+schoolwork/第五章/天数判断.s: schoolwork/第五章/天数判断.cpp.s
+
+.PHONY : schoolwork/第五章/天数判断.s
+
+# target to generate assembly for a file
+schoolwork/第五章/天数判断.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第五章/天数判断.cpp.s
+.PHONY : schoolwork/第五章/天数判断.cpp.s
+
+schoolwork/第五章/星期推算.o: schoolwork/第五章/星期推算.cpp.o
+
+.PHONY : schoolwork/第五章/星期推算.o
+
+# target to build an object file
+schoolwork/第五章/星期推算.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.o
+.PHONY : schoolwork/第五章/星期推算.cpp.o
+
+schoolwork/第五章/星期推算.i: schoolwork/第五章/星期推算.cpp.i
+
+.PHONY : schoolwork/第五章/星期推算.i
+
+# target to preprocess a source file
+schoolwork/第五章/星期推算.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.i
+.PHONY : schoolwork/第五章/星期推算.cpp.i
+
+schoolwork/第五章/星期推算.s: schoolwork/第五章/星期推算.cpp.s
+
+.PHONY : schoolwork/第五章/星期推算.s
+
+# target to generate assembly for a file
+schoolwork/第五章/星期推算.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第五章/星期推算.cpp.s
+.PHONY : schoolwork/第五章/星期推算.cpp.s
+
+schoolwork/第五章/特征数判断.o: schoolwork/第五章/特征数判断.cpp.o
+
+.PHONY : schoolwork/第五章/特征数判断.o
+
+# target to build an object file
+schoolwork/第五章/特征数判断.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.o
+.PHONY : schoolwork/第五章/特征数判断.cpp.o
+
+schoolwork/第五章/特征数判断.i: schoolwork/第五章/特征数判断.cpp.i
+
+.PHONY : schoolwork/第五章/特征数判断.i
+
+# target to preprocess a source file
+schoolwork/第五章/特征数判断.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.i
+.PHONY : schoolwork/第五章/特征数判断.cpp.i
+
+schoolwork/第五章/特征数判断.s: schoolwork/第五章/特征数判断.cpp.s
+
+.PHONY : schoolwork/第五章/特征数判断.s
+
+# target to generate assembly for a file
+schoolwork/第五章/特征数判断.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第五章/特征数判断.cpp.s
+.PHONY : schoolwork/第五章/特征数判断.cpp.s
+
+schoolwork/第六章/test.o: schoolwork/第六章/test.cpp.o
+
+.PHONY : schoolwork/第六章/test.o
+
+# target to build an object file
+schoolwork/第六章/test.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.o
+.PHONY : schoolwork/第六章/test.cpp.o
+
+schoolwork/第六章/test.i: schoolwork/第六章/test.cpp.i
+
+.PHONY : schoolwork/第六章/test.i
+
+# target to preprocess a source file
+schoolwork/第六章/test.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.i
+.PHONY : schoolwork/第六章/test.cpp.i
+
+schoolwork/第六章/test.s: schoolwork/第六章/test.cpp.s
+
+.PHONY : schoolwork/第六章/test.s
+
+# target to generate assembly for a file
+schoolwork/第六章/test.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/test.cpp.s
+.PHONY : schoolwork/第六章/test.cpp.s
+
+schoolwork/第六章/图形打印.o: schoolwork/第六章/图形打印.cpp.o
+
+.PHONY : schoolwork/第六章/图形打印.o
+
+# target to build an object file
+schoolwork/第六章/图形打印.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.o
+.PHONY : schoolwork/第六章/图形打印.cpp.o
+
+schoolwork/第六章/图形打印.i: schoolwork/第六章/图形打印.cpp.i
+
+.PHONY : schoolwork/第六章/图形打印.i
+
+# target to preprocess a source file
+schoolwork/第六章/图形打印.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.i
+.PHONY : schoolwork/第六章/图形打印.cpp.i
+
+schoolwork/第六章/图形打印.s: schoolwork/第六章/图形打印.cpp.s
+
+.PHONY : schoolwork/第六章/图形打印.s
+
+# target to generate assembly for a file
+schoolwork/第六章/图形打印.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.s
+.PHONY : schoolwork/第六章/图形打印.cpp.s
+
+schoolwork/第六章/求和S.o: schoolwork/第六章/求和S.cpp.o
+
+.PHONY : schoolwork/第六章/求和S.o
+
+# target to build an object file
+schoolwork/第六章/求和S.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.o
+.PHONY : schoolwork/第六章/求和S.cpp.o
+
+schoolwork/第六章/求和S.i: schoolwork/第六章/求和S.cpp.i
+
+.PHONY : schoolwork/第六章/求和S.i
+
+# target to preprocess a source file
+schoolwork/第六章/求和S.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.i
+.PHONY : schoolwork/第六章/求和S.cpp.i
+
+schoolwork/第六章/求和S.s: schoolwork/第六章/求和S.cpp.s
+
+.PHONY : schoolwork/第六章/求和S.s
+
+# target to generate assembly for a file
+schoolwork/第六章/求和S.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.s
+.PHONY : schoolwork/第六章/求和S.cpp.s
+
+schoolwork/第六章/特征四位数.o: schoolwork/第六章/特征四位数.cpp.o
+
+.PHONY : schoolwork/第六章/特征四位数.o
+
+# target to build an object file
+schoolwork/第六章/特征四位数.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.o
+.PHONY : schoolwork/第六章/特征四位数.cpp.o
+
+schoolwork/第六章/特征四位数.i: schoolwork/第六章/特征四位数.cpp.i
+
+.PHONY : schoolwork/第六章/特征四位数.i
+
+# target to preprocess a source file
+schoolwork/第六章/特征四位数.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.i
+.PHONY : schoolwork/第六章/特征四位数.cpp.i
+
+schoolwork/第六章/特征四位数.s: schoolwork/第六章/特征四位数.cpp.s
+
+.PHONY : schoolwork/第六章/特征四位数.s
+
+# target to generate assembly for a file
+schoolwork/第六章/特征四位数.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.s
+.PHONY : schoolwork/第六章/特征四位数.cpp.s
+
+schoolwork/第六章/追查车号.o: schoolwork/第六章/追查车号.cpp.o
+
+.PHONY : schoolwork/第六章/追查车号.o
+
+# target to build an object file
+schoolwork/第六章/追查车号.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o
+.PHONY : schoolwork/第六章/追查车号.cpp.o
+
+schoolwork/第六章/追查车号.i: schoolwork/第六章/追查车号.cpp.i
+
+.PHONY : schoolwork/第六章/追查车号.i
+
+# target to preprocess a source file
+schoolwork/第六章/追查车号.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.i
+.PHONY : schoolwork/第六章/追查车号.cpp.i
+
+schoolwork/第六章/追查车号.s: schoolwork/第六章/追查车号.cpp.s
+
+.PHONY : schoolwork/第六章/追查车号.s
+
+# target to generate assembly for a file
+schoolwork/第六章/追查车号.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.s
+.PHONY : schoolwork/第六章/追查车号.cpp.s
+
+schoolwork/第四章/test.o: schoolwork/第四章/test.cpp.o
+
+.PHONY : schoolwork/第四章/test.o
+
+# target to build an object file
+schoolwork/第四章/test.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.o
+.PHONY : schoolwork/第四章/test.cpp.o
+
+schoolwork/第四章/test.i: schoolwork/第四章/test.cpp.i
+
+.PHONY : schoolwork/第四章/test.i
+
+# target to preprocess a source file
+schoolwork/第四章/test.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.i
+.PHONY : schoolwork/第四章/test.cpp.i
+
+schoolwork/第四章/test.s: schoolwork/第四章/test.cpp.s
+
+.PHONY : schoolwork/第四章/test.s
+
+# target to generate assembly for a file
+schoolwork/第四章/test.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第四章/test.cpp.s
+.PHONY : schoolwork/第四章/test.cpp.s
+
+schoolwork/第四章/时刻转换.o: schoolwork/第四章/时刻转换.cpp.o
+
+.PHONY : schoolwork/第四章/时刻转换.o
+
+# target to build an object file
+schoolwork/第四章/时刻转换.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.o
+.PHONY : schoolwork/第四章/时刻转换.cpp.o
+
+schoolwork/第四章/时刻转换.i: schoolwork/第四章/时刻转换.cpp.i
+
+.PHONY : schoolwork/第四章/时刻转换.i
+
+# target to preprocess a source file
+schoolwork/第四章/时刻转换.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.i
+.PHONY : schoolwork/第四章/时刻转换.cpp.i
+
+schoolwork/第四章/时刻转换.s: schoolwork/第四章/时刻转换.cpp.s
+
+.PHONY : schoolwork/第四章/时刻转换.s
+
+# target to generate assembly for a file
+schoolwork/第四章/时刻转换.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.s
+.PHONY : schoolwork/第四章/时刻转换.cpp.s
+
+schoolwork/第四章/进制转换.o: schoolwork/第四章/进制转换.cpp.o
+
+.PHONY : schoolwork/第四章/进制转换.o
+
+# target to build an object file
+schoolwork/第四章/进制转换.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.o
+.PHONY : schoolwork/第四章/进制转换.cpp.o
+
+schoolwork/第四章/进制转换.i: schoolwork/第四章/进制转换.cpp.i
+
+.PHONY : schoolwork/第四章/进制转换.i
+
+# target to preprocess a source file
+schoolwork/第四章/进制转换.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.i
+.PHONY : schoolwork/第四章/进制转换.cpp.i
+
+schoolwork/第四章/进制转换.s: schoolwork/第四章/进制转换.cpp.s
+
+.PHONY : schoolwork/第四章/进制转换.s
+
+# target to generate assembly for a file
+schoolwork/第四章/进制转换.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.s
+.PHONY : schoolwork/第四章/进制转换.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -219,9 +1002,96 @@ help:
 	@echo "... debug.o"
 	@echo "... debug.i"
 	@echo "... debug.s"
+	@echo "... homework/01感性认识计算机程序/leapYear.o"
+	@echo "... homework/01感性认识计算机程序/leapYear.i"
+	@echo "... homework/01感性认识计算机程序/leapYear.s"
+	@echo "... homework/01感性认识计算机程序/与7无关的数.o"
+	@echo "... homework/01感性认识计算机程序/与7无关的数.i"
+	@echo "... homework/01感性认识计算机程序/与7无关的数.s"
+	@echo "... homework/01感性认识计算机程序/奇数求和.o"
+	@echo "... homework/01感性认识计算机程序/奇数求和.i"
+	@echo "... homework/01感性认识计算机程序/奇数求和.s"
+	@echo "... homework/01感性认识计算机程序/贝贝找晶晶.o"
+	@echo "... homework/01感性认识计算机程序/贝贝找晶晶.i"
+	@echo "... homework/01感性认识计算机程序/贝贝找晶晶.s"
+	@echo "... homework/01感性认识计算机程序/鸡兔同笼.o"
+	@echo "... homework/01感性认识计算机程序/鸡兔同笼.i"
+	@echo "... homework/01感性认识计算机程序/鸡兔同笼.s"
+	@echo "... homework/02从现实问题到计算基础程序/1的个数.o"
+	@echo "... homework/02从现实问题到计算基础程序/1的个数.i"
+	@echo "... homework/02从现实问题到计算基础程序/1的个数.s"
+	@echo "... homework/02从现实问题到计算基础程序/三角形判断.o"
+	@echo "... homework/02从现实问题到计算基础程序/三角形判断.i"
+	@echo "... homework/02从现实问题到计算基础程序/三角形判断.s"
+	@echo "... homework/02从现实问题到计算基础程序/数组逆序重放.o"
+	@echo "... homework/02从现实问题到计算基础程序/数组逆序重放.i"
+	@echo "... homework/02从现实问题到计算基础程序/数组逆序重放.s"
+	@echo "... homework/02从现实问题到计算基础程序/点和正方形的关系.o"
+	@echo "... homework/02从现实问题到计算基础程序/点和正方形的关系.i"
+	@echo "... homework/02从现实问题到计算基础程序/点和正方形的关系.s"
+	@echo "... homework/02从现实问题到计算基础程序/计算三角形面积.o"
+	@echo "... homework/02从现实问题到计算基础程序/计算三角形面积.i"
+	@echo "... homework/02从现实问题到计算基础程序/计算三角形面积.s"
+	@echo "... homework/03c语言中的数据成分/奥运奖牌计数.o"
+	@echo "... homework/03c语言中的数据成分/奥运奖牌计数.i"
+	@echo "... homework/03c语言中的数据成分/奥运奖牌计数.s"
+	@echo "... homework/03c语言中的数据成分/数据类型.o"
+	@echo "... homework/03c语言中的数据成分/数据类型.i"
+	@echo "... homework/03c语言中的数据成分/数据类型.s"
+	@echo "... homework/03c语言中的数据成分/整数的个数.o"
+	@echo "... homework/03c语言中的数据成分/整数的个数.i"
+	@echo "... homework/03c语言中的数据成分/整数的个数.s"
+	@echo "... homework/03c语言中的数据成分/细菌的战争.o"
+	@echo "... homework/03c语言中的数据成分/细菌的战争.i"
+	@echo "... homework/03c语言中的数据成分/细菌的战争.s"
+	@echo "... homework/03c语言中的数据成分/能被3，5，7整除的数.o"
+	@echo "... homework/03c语言中的数据成分/能被3，5，7整除的数.i"
+	@echo "... homework/03c语言中的数据成分/能被3，5，7整除的数.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... schoolwork/数据类型/温度转换.o"
+	@echo "... schoolwork/数据类型/温度转换.i"
+	@echo "... schoolwork/数据类型/温度转换.s"
+	@echo "... schoolwork/数据类型/逆序打印.o"
+	@echo "... schoolwork/数据类型/逆序打印.i"
+	@echo "... schoolwork/数据类型/逆序打印.s"
+	@echo "... schoolwork/第一周/输出学号.o"
+	@echo "... schoolwork/第一周/输出学号.i"
+	@echo "... schoolwork/第一周/输出学号.s"
+	@echo "... schoolwork/第五章/天数判断.o"
+	@echo "... schoolwork/第五章/天数判断.i"
+	@echo "... schoolwork/第五章/天数判断.s"
+	@echo "... schoolwork/第五章/星期推算.o"
+	@echo "... schoolwork/第五章/星期推算.i"
+	@echo "... schoolwork/第五章/星期推算.s"
+	@echo "... schoolwork/第五章/特征数判断.o"
+	@echo "... schoolwork/第五章/特征数判断.i"
+	@echo "... schoolwork/第五章/特征数判断.s"
+	@echo "... schoolwork/第六章/test.o"
+	@echo "... schoolwork/第六章/test.i"
+	@echo "... schoolwork/第六章/test.s"
+	@echo "... schoolwork/第六章/图形打印.o"
+	@echo "... schoolwork/第六章/图形打印.i"
+	@echo "... schoolwork/第六章/图形打印.s"
+	@echo "... schoolwork/第六章/求和S.o"
+	@echo "... schoolwork/第六章/求和S.i"
+	@echo "... schoolwork/第六章/求和S.s"
+	@echo "... schoolwork/第六章/特征四位数.o"
+	@echo "... schoolwork/第六章/特征四位数.i"
+	@echo "... schoolwork/第六章/特征四位数.s"
+	@echo "... schoolwork/第六章/追查车号.o"
+	@echo "... schoolwork/第六章/追查车号.i"
+	@echo "... schoolwork/第六章/追查车号.s"
+	@echo "... schoolwork/第四章/test.o"
+	@echo "... schoolwork/第四章/test.i"
+	@echo "... schoolwork/第四章/test.s"
+	@echo "... schoolwork/第四章/时刻转换.o"
+	@echo "... schoolwork/第四章/时刻转换.i"
+	@echo "... schoolwork/第四章/时刻转换.s"
+	@echo "... schoolwork/第四章/进制转换.o"
+	@echo "... schoolwork/第四章/进制转换.i"
+	@echo "... schoolwork/第四章/进制转换.s"
 .PHONY : help
 
 

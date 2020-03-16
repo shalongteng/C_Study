@@ -1,13 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="C_Study" targetName="C_Study" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
   </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9beb8397-7303-4af0-b2be-bce70a3b311f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/doc/03图灵机.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/04计算机为何能够计算.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/05程序是如何进行计算的.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/06存储器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/06理性认识c程序/01笔记" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/07c语言中的数据部分/01数据类型" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/07c语言中的数据部分/02浮点类型" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/07c语言中的数据部分/03字符型" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/07c语言中的数据部分/04布尔类型" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/07c语言中的数据部分/05常量" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/07快步走进c程序.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/08从现实问题到计算机程序" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/01感性认识计算机程序/leapYear.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/01感性认识计算机程序/与7无关的数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/01感性认识计算机程序/奇数求和.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/01感性认识计算机程序/贝贝找晶晶.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/01感性认识计算机程序/鸡兔同笼.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/1的个数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/三角形判断.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/数组逆序重放.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/03c语言中的数据成分/奥运奖牌计数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/03c语言中的数据成分/数据类型.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/03c语言中的数据成分/整数的个数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/03c语言中的数据成分/细菌的战争.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/数据类型/温度转换.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/数据类型/逆序打印.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第一周/输出学号.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第五章/天数判断.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第五章/星期推算.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第五章/特征数判断.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第六章/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第六章/图形打印.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第六章/求和S.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第六章/特征四位数.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第六章/追查车号.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第四章/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第四章/时刻转换.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolwork/第四章/进制转换.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/flags.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/link.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C_Study.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/C_Study.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/debug.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/02三次数学危机到图灵机.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/02三次数学危机到图灵机.md" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schoolwork/第四章/进制转换.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schoolwork/第五章/星期推算.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" selection-start-column="2" selection-end-line="14" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schoolwork/第五章/特征数判断.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="25" column="3" selection-start-line="7" selection-start-column="2" selection-end-line="25" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schoolwork/第五章/天数判断.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="741">
+              <caret line="39" column="18" selection-start-column="2" selection-end-line="50" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schoolwork/第六章/test.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="3" column="3" selection-start-column="2" selection-end-line="26" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/schoolwork/第六章/图形打印.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="23" selection-start-column="2" selection-end-line="21" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schoolwork/第六章/特征四位数.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="26" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schoolwork/第六章/求和S.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/schoolwork/第六章/追查车号.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="16" column="28" selection-start-column="2" selection-end-line="24" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>printf</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/doc/02三次数学危机到图灵机.md" />
+        <option value="$PROJECT_DIR$/doc/03图灵机构成.md" />
+        <option value="$PROJECT_DIR$/doc/04计算机为何能够计算.md" />
+        <option value="$PROJECT_DIR$/doc/06存储器.md" />
+        <option value="$PROJECT_DIR$/doc/07快步走进c程序.md" />
+        <option value="$PROJECT_DIR$/doc/05程序是如何进行计算的.md" />
+        <option value="$PROJECT_DIR$/debug.cpp" />
+        <option value="$PROJECT_DIR$/homework/贝贝找晶晶.cpp" />
+        <option value="$PROJECT_DIR$/homework/leapYear.cpp" />
+        <option value="$PROJECT_DIR$/homework/鸡兔同笼.cpp" />
+        <option value="$PROJECT_DIR$/homework/感性认识计算机程序/鸡兔同笼.cpp" />
+        <option value="$PROJECT_DIR$/homework/感性认识计算机程序/奇数求和.cpp" />
+        <option value="$PROJECT_DIR$/homework/感性认识计算机程序/与7无关的数.cpp" />
+        <option value="$PROJECT_DIR$/doc/08从现实问题到计算机程序" />
+        <option value="$PROJECT_DIR$/homework/01感性认识计算机程序/与7无关的数.cpp" />
+        <option value="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp" />
+        <option value="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/数组逆序重放.cpp" />
+        <option value="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp" />
+        <option value="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/三角形判断.cpp" />
+        <option value="$PROJECT_DIR$/doc/理性认识c程序/01笔记" />
+        <option value="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/1的个数.cpp" />
+        <option value="$PROJECT_DIR$/homework/03c语言中的数据成分/数据类型.cpp" />
+        <option value="$PROJECT_DIR$/doc/07c语言中的数据部分/02浮点类型" />
+        <option value="$PROJECT_DIR$/doc/07c语言中的数据部分/03字符型" />
+        <option value="$PROJECT_DIR$/doc/07c语言中的数据部分/04布尔类型" />
+        <option value="$PROJECT_DIR$/homework/03c语言中的数据成分/数据类型.c" />
+        <option value="$PROJECT_DIR$/doc/07c语言中的数据部分/01数据类型" />
+        <option value="$PROJECT_DIR$/schoolwork/第一周/输出学号.cpp" />
+        <option value="$PROJECT_DIR$/homework/03c语言中的数据成分/整数的个数.cpp" />
+        <option value="$PROJECT_DIR$/homework/03c语言中的数据成分/奥运奖牌计数.cpp" />
+        <option value="$PROJECT_DIR$/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp" />
+        <option value="$PROJECT_DIR$/homework/03c语言中的数据成分/细菌的战争.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/数据类型/逆序打印.cpp" />
+        <option value="$PROJECT_DIR$/doc/07c语言中的数据部分/05常量" />
+        <option value="$PROJECT_DIR$/schoolwork/数据类型/温度转换.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第四章/test.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第四章/时刻转换.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第四章/进制转换.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第五章/星期推算.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第五章/特征数判断.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第五章/天数判断.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第六章/test.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第六章/图形打印.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第六章/特征四位数.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第六章/求和S.cpp" />
+        <option value="$PROJECT_DIR$/schoolwork/第六章/追查车号.cpp" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="C_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C_Study" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="C_Study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="C_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="doc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -15,11 +257,422 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/homework/感性认识计算机程序" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doc/07c语言中的数据部分" />
+      <recent name="$PROJECT_DIR$/doc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
   <component name="RunManager">
     <configuration name="C_Study" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="C_Study" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Study" RUN_TARGET_NAME="C_Study">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9beb8397-7303-4af0-b2be-bce70a3b311f" name="Default Changelist" comment="" />
+      <created>1583304907418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583304907418</updated>
+      <workItem from="1583304908718" duration="46567000" />
+      <workItem from="1583742250489" duration="7106000" />
+      <workItem from="1583979121625" duration="3601000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57274000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
+      <window_info anchor="bottom" id="CMake" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp</url>
+          <line>21</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/area.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/01debug.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/02三次数学危机到图灵机.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/03图灵机.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-57">
+          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/04计算机为何能够计算.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/07快步走进c程序.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/06存储器.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/05程序是如何进行计算的.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="54" column="7" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/debug.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="32" selection-start-column="2" selection-end-line="44" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/08从现实问题到计算机程序">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="22" column="3" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/01感性认识计算机程序/鸡兔同笼.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="13" column="12" selection-start-column="2" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/01感性认识计算机程序/贝贝找晶晶.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="7" selection-start-column="2" selection-end-line="19" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/01感性认识计算机程序/奇数求和.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/01感性认识计算机程序/与7无关的数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="9" selection-start-column="2" selection-end-line="28" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/01感性认识计算机程序/leapYear.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <folding>
+            <marker date="1583394421631" expanded="true" signature="2:700" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="24" column="15" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/数组逆序重放.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/三角形判断.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/06理性认识c程序/01笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/1的个数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="20" selection-start-column="2" selection-end-line="23" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/07c语言中的数据部分/02浮点类型">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/07c语言中的数据部分/03字符型">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/07c语言中的数据部分/04布尔类型">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第一周/输出学号.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="13" selection-start-column="2" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Developer/CommandLineTools/usr/include/c++/v1/stdio.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-313">
+          <caret line="69" column="11" selection-start-line="69" selection-start-column="5" selection-end-line="69" selection-end-column="11" />
+          <folding>
+            <element signature="e#424#531#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/03c语言中的数据成分/整数的个数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="7" selection-start-column="2" selection-end-line="30" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/03c语言中的数据成分/奥运奖牌计数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="20" selection-start-column="2" selection-end-line="32" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/03c语言中的数据成分/细菌的战争.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/数据类型/逆序打印.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/数据类型/温度转换.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/07c语言中的数据部分/05常量">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/07c语言中的数据部分/01数据类型">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="15" selection-start-line="34" selection-start-column="15" selection-end-line="34" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/03c语言中的数据成分/数据类型.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="3" selection-start-line="17" selection-start-column="2" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第四章/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-column="2" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第四章/时刻转换.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第四章/进制转换.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第五章/星期推算.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" selection-start-column="2" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第五章/特征数判断.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="3" selection-start-line="7" selection-start-column="2" selection-end-line="25" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第五章/天数判断.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="39" column="18" selection-start-column="2" selection-end-line="50" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第六章/特征四位数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="26" selection-start-column="2" selection-end-line="16" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第六章/求和S.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第六章/追查车号.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="16" column="28" selection-start-column="2" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第六章/test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="3" column="3" selection-start-column="2" selection-end-line="26" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schoolwork/第六章/图形打印.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="23" selection-start-column="2" selection-end-line="21" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
