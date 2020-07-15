@@ -582,6 +582,60 @@ homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.s:
 	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.s
 .PHONY : homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.s
 
+homework/03c语言中的数据成分/谁考了第k名.o: homework/03c语言中的数据成分/谁考了第k名.cpp.o
+
+.PHONY : homework/03c语言中的数据成分/谁考了第k名.o
+
+# target to build an object file
+homework/03c语言中的数据成分/谁考了第k名.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.o
+.PHONY : homework/03c语言中的数据成分/谁考了第k名.cpp.o
+
+homework/03c语言中的数据成分/谁考了第k名.i: homework/03c语言中的数据成分/谁考了第k名.cpp.i
+
+.PHONY : homework/03c语言中的数据成分/谁考了第k名.i
+
+# target to preprocess a source file
+homework/03c语言中的数据成分/谁考了第k名.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.i
+.PHONY : homework/03c语言中的数据成分/谁考了第k名.cpp.i
+
+homework/03c语言中的数据成分/谁考了第k名.s: homework/03c语言中的数据成分/谁考了第k名.cpp.s
+
+.PHONY : homework/03c语言中的数据成分/谁考了第k名.s
+
+# target to generate assembly for a file
+homework/03c语言中的数据成分/谁考了第k名.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.s
+.PHONY : homework/03c语言中的数据成分/谁考了第k名.cpp.s
+
+homework/04运算成分基础练习/第二个重复出现的数.o: homework/04运算成分基础练习/第二个重复出现的数.cpp.o
+
+.PHONY : homework/04运算成分基础练习/第二个重复出现的数.o
+
+# target to build an object file
+homework/04运算成分基础练习/第二个重复出现的数.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.o
+.PHONY : homework/04运算成分基础练习/第二个重复出现的数.cpp.o
+
+homework/04运算成分基础练习/第二个重复出现的数.i: homework/04运算成分基础练习/第二个重复出现的数.cpp.i
+
+.PHONY : homework/04运算成分基础练习/第二个重复出现的数.i
+
+# target to preprocess a source file
+homework/04运算成分基础练习/第二个重复出现的数.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.i
+.PHONY : homework/04运算成分基础练习/第二个重复出现的数.cpp.i
+
+homework/04运算成分基础练习/第二个重复出现的数.s: homework/04运算成分基础练习/第二个重复出现的数.cpp.s
+
+.PHONY : homework/04运算成分基础练习/第二个重复出现的数.s
+
+# target to generate assembly for a file
+homework/04运算成分基础练习/第二个重复出现的数.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.s
+.PHONY : homework/04运算成分基础练习/第二个重复出现的数.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -1047,6 +1101,12 @@ help:
 	@echo "... homework/03c语言中的数据成分/能被3，5，7整除的数.o"
 	@echo "... homework/03c语言中的数据成分/能被3，5，7整除的数.i"
 	@echo "... homework/03c语言中的数据成分/能被3，5，7整除的数.s"
+	@echo "... homework/03c语言中的数据成分/谁考了第k名.o"
+	@echo "... homework/03c语言中的数据成分/谁考了第k名.i"
+	@echo "... homework/03c语言中的数据成分/谁考了第k名.s"
+	@echo "... homework/04运算成分基础练习/第二个重复出现的数.o"
+	@echo "... homework/04运算成分基础练习/第二个重复出现的数.i"
+	@echo "... homework/04运算成分基础练习/第二个重复出现的数.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

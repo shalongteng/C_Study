@@ -473,6 +473,32 @@ CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/追查车号.cpp -o CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.s
 
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.o: ../homework/03c语言中的数据成分/谁考了第k名.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/谁考了第k名.cpp
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/谁考了第k名.cpp > CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.i
+
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/谁考了第k名.cpp -o CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.s
+
+CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.o: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.o: ../homework/04运算成分基础练习/第二个重复出现的数.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_34) "Building CXX object CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.o -c /Users/shalongteng/ClionProjects_test/C_Study/homework/04运算成分基础练习/第二个重复出现的数.cpp
+
+CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/shalongteng/ClionProjects_test/C_Study/homework/04运算成分基础练习/第二个重复出现的数.cpp > CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.i
+
+CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/shalongteng/ClionProjects_test/C_Study/homework/04运算成分基础练习/第二个重复出现的数.cpp -o CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.s
+
 # Object files for target C_Study
 C_Study_OBJECTS = \
 "CMakeFiles/C_Study.dir/main.cpp.o" \
@@ -506,7 +532,9 @@ C_Study_OBJECTS = \
 "CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.o" \
 "CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.o" \
 "CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.o" \
-"CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o"
+"CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.o" \
+"CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.o"
 
 # External object files for target C_Study
 C_Study_EXTERNAL_OBJECTS =
@@ -543,9 +571,11 @@ C_Study: CMakeFiles/C_Study.dir/schoolwork/第六章/图形打印.cpp.o
 C_Study: CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.o
 C_Study: CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.o
 C_Study: CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.o
+C_Study: CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.o
 C_Study: CMakeFiles/C_Study.dir/build.make
 C_Study: CMakeFiles/C_Study.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Linking CXX executable C_Study"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_35) "Linking CXX executable C_Study"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/C_Study.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

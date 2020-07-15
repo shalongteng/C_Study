@@ -35,6 +35,10 @@ CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.
 
 CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o: ../homework/03c语言中的数据成分/能被3，5，7整除的数.cpp
 
+CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.o: ../homework/03c语言中的数据成分/谁考了第k名.cpp
+
+CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.o: ../homework/04运算成分基础练习/第二个重复出现的数.cpp
+
 CMakeFiles/C_Study.dir/main.cpp.o: ../main.cpp
 
 CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.o: ../schoolwork/数据类型/温度转换.cpp

@@ -29,6 +29,8 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/整数的个数.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/整数的个数.cpp.o"
   "/Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/细菌的战争.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/细菌的战争.cpp.o"
   "/Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp.o"
+  "/Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/谁考了第k名.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.o"
+  "/Users/shalongteng/ClionProjects_test/C_Study/homework/04运算成分基础练习/第二个重复出现的数.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.o"
   "/Users/shalongteng/ClionProjects_test/C_Study/main.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/main.cpp.o"
   "/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/数据类型/温度转换.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/schoolwork/数据类型/温度转换.cpp.o"
   "/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/数据类型/逆序打印.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/schoolwork/数据类型/逆序打印.cpp.o"

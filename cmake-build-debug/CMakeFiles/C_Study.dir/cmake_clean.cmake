@@ -31,6 +31,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/C_Study.dir/schoolwork/第六章/特征四位数.cpp.o"
   "CMakeFiles/C_Study.dir/schoolwork/第六章/求和S.cpp.o"
   "CMakeFiles/C_Study.dir/schoolwork/第六章/追查车号.cpp.o"
+  "CMakeFiles/C_Study.dir/homework/03c语言中的数据成分/谁考了第k名.cpp.o"
+  "CMakeFiles/C_Study.dir/homework/04运算成分基础练习/第二个重复出现的数.cpp.o"
   "C_Study.pdb"
   "C_Study"
 )
