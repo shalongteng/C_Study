@@ -12,16 +12,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9beb8397-7303-4af0-b2be-bce70a3b311f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/doc/03计算机的历史与未来/01计算机历史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/03计算机的历史与未来/02从电子管到云计算.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/03计算机的历史与未来/03未来计算机" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/04程序运行基本原理/01冯诺依曼式计算机.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/05感性认识计算机程序/01前言.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/05感性认识计算机程序/02感性认知程序.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/00课程介绍/00课程介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/01课程介绍/00课程介绍.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/01计算机基本原理/01笔记" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/02三次数学危机到图灵机.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/02计算机基本原理/02三次数学危机到图灵机.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/03图灵机.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/02计算机基本原理/03图灵机.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/04计算机为何能够计算.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/02计算机基本原理/04计算机为何能够计算.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/05程序是如何进行计算的.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/02计算机基本原理/05程序是如何进行计算的.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/06存储器.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/07快步走进c程序.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/05感性认识计算机程序/03快步走进c程序.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,28 +30,69 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/03计算机的历史与未来/01计算机历史.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-266">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <entry file="file://$PROJECT_DIR$/doc/05感性认识计算机程序/02感性认知程序.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/doc/03计算机的历史与未来/02从电子管到云计算.md">
+        <entry file="file://$PROJECT_DIR$/doc/05感性认识计算机程序/03快步走进c程序.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/01感性认识计算机程序/leapYear.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="40" column="10" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+            <state relative-caret-position="494">
+              <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/homework/04运算成分基础练习/第二个重复出现的数.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="27" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/area.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <folding>
+                <element signature="e#1#19#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/doc/03计算机的历史与未来/03未来计算机">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/clion.vmoptions">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="418">
+              <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -66,6 +103,7 @@
     <findStrings>
       <find>printf</find>
       <find>量子</find>
+      <find>main</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$/doc/03计算机的历史与未来</dir>
@@ -77,11 +115,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/三角形判断.cpp" />
-        <option value="$PROJECT_DIR$/doc/理性认识c程序/01笔记" />
-        <option value="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/1的个数.cpp" />
-        <option value="$PROJECT_DIR$/homework/03c语言中的数据成分/数据类型.cpp" />
-        <option value="$PROJECT_DIR$/doc/07c语言中的数据部分/02浮点类型" />
         <option value="$PROJECT_DIR$/doc/07c语言中的数据部分/03字符型" />
         <option value="$PROJECT_DIR$/doc/07c语言中的数据部分/04布尔类型" />
         <option value="$PROJECT_DIR$/homework/03c语言中的数据成分/数据类型.c" />
@@ -128,10 +161,15 @@
         <option value="$PROJECT_DIR$/doc/03计算机的历史与未来/01计算机历史.md" />
         <option value="$PROJECT_DIR$/doc/03计算机的历史与未来/02从电子管到云计算.md" />
         <option value="$PROJECT_DIR$/doc/03计算机的历史与未来/03未来计算机" />
+        <option value="$PROJECT_DIR$/doc/04程序运行基本原理/01冯诺依曼式计算机.md" />
+        <option value="$PROJECT_DIR$/doc/05感性认识计算机程序/01前言.md" />
+        <option value="$PROJECT_DIR$/doc/05感性认识计算机程序/02感性认知程序.md" />
+        <option value="$PROJECT_DIR$/doc/05感性认识计算机程序/03快步走进c程序.md" />
+        <option value="$APPLICATION_CONFIG_DIR$/clion.vmoptions" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1440" />
     <option name="height" value="900" />
   </component>
@@ -140,7 +178,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -148,26 +185,11 @@
               <item name="C_Study" type="b2602c69:ProjectViewProjectNode" />
               <item name="C_Study" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="C_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="C_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="C_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="C_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-              <item name="03计算机的历史与未来" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="C_Study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="C_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="homework" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,15 +199,16 @@
     <property name="settings.editor.selected.configurable" value="CPPToolchains" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/doc/01计算机基本原理" />
-      <recent name="$PROJECT_DIR$/doc" />
-      <recent name="$PROJECT_DIR$/homework/感性认识计算机程序" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/homework/03c语言中的数据成分" />
       <recent name="$PROJECT_DIR$/doc/07c语言中的数据部分" />
       <recent name="$PROJECT_DIR$/doc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/doc/05感性认识计算机程序" />
+      <recent name="$PROJECT_DIR$/doc/01计算机基本原理" />
+      <recent name="$PROJECT_DIR$/doc" />
+      <recent name="$PROJECT_DIR$/homework/感性认识计算机程序" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -222,30 +245,33 @@
       <workItem from="1583979121625" duration="23018000" />
       <workItem from="1592614627128" duration="2047000" />
       <workItem from="1594561049110" duration="10722000" />
-      <workItem from="1595941664180" duration="3940000" />
+      <workItem from="1595941664180" duration="10245000" />
+      <workItem from="1599050768014" duration="379000" />
+      <workItem from="1599895667376" duration="158000" />
+      <workItem from="1601113797337" duration="219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="93400000" />
+    <option name="totallyTimeSpent" value="100461000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.27710843" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.2759036" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27710843" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.2759036" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32891566" />
       <window_info anchor="bottom" id="CMake" order="12" />
@@ -284,65 +310,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="24" column="15" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/数组逆序重放.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="15" selection-start-line="18" selection-start-column="15" selection-end-line="18" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/三角形判断.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homework/02从现实问题到计算基础程序/1的个数.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="20" selection-start-column="2" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/07c语言中的数据部分/02浮点类型">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="27" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/07c语言中的数据部分/03字符型">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/07c语言中的数据部分/04布尔类型">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/schoolwork/第一周/输出学号.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -532,23 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework/04运算成分基础练习/第二个重复出现的数.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-439">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/area.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-          <folding>
-            <element signature="e#1#19#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/doc/06理性认识c程序/01笔记">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -570,20 +520,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/homework/01感性认识计算机程序/leapYear.cpp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/doc/02计算机基本原理/01笔记">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/02计算机基本原理/01笔记" />
     <entry file="file://$PROJECT_DIR$/doc/01课程介绍/00课程介绍.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -629,7 +566,96 @@
     <entry file="file://$PROJECT_DIR$/doc/03计算机的历史与未来/03未来计算机">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/06存储器.md" />
+    <entry file="file://$PROJECT_DIR$/doc/01debug.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/08从现实问题到计算机程序">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/04程序运行基本原理/01冯诺依曼式计算机.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="52" column="19" selection-start-line="52" selection-start-column="19" selection-end-line="52" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/05感性认识计算机程序/01前言.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/05感性认识计算机程序/02感性认知程序.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/05感性认识计算机程序/03快步走进c程序.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/01感性认识计算机程序/leapYear.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="26" column="15" selection-start-line="26" selection-start-column="15" selection-end-line="26" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/homework/04运算成分基础练习/第二个重复出现的数.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="27" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/area.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#1#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/clion.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
         </state>
       </provider>
     </entry>
