@@ -1041,6 +1041,33 @@ schoolwork/第四章/进制转换.cpp.s:
 	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.s
 .PHONY : schoolwork/第四章/进制转换.cpp.s
 
+seatwork/06/chickenRabbit_.o: seatwork/06/chickenRabbit_.cpp.o
+
+.PHONY : seatwork/06/chickenRabbit_.o
+
+# target to build an object file
+seatwork/06/chickenRabbit_.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/seatwork/06/chickenRabbit_.cpp.o
+.PHONY : seatwork/06/chickenRabbit_.cpp.o
+
+seatwork/06/chickenRabbit_.i: seatwork/06/chickenRabbit_.cpp.i
+
+.PHONY : seatwork/06/chickenRabbit_.i
+
+# target to preprocess a source file
+seatwork/06/chickenRabbit_.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/seatwork/06/chickenRabbit_.cpp.i
+.PHONY : seatwork/06/chickenRabbit_.cpp.i
+
+seatwork/06/chickenRabbit_.s: seatwork/06/chickenRabbit_.cpp.s
+
+.PHONY : seatwork/06/chickenRabbit_.s
+
+# target to generate assembly for a file
+seatwork/06/chickenRabbit_.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/seatwork/06/chickenRabbit_.cpp.s
+.PHONY : seatwork/06/chickenRabbit_.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1152,6 +1179,9 @@ help:
 	@echo "... schoolwork/第四章/进制转换.o"
 	@echo "... schoolwork/第四章/进制转换.i"
 	@echo "... schoolwork/第四章/进制转换.s"
+	@echo "... seatwork/06/chickenRabbit_.o"
+	@echo "... seatwork/06/chickenRabbit_.i"
+	@echo "... seatwork/06/chickenRabbit_.s"
 .PHONY : help
 
 

@@ -182,6 +182,9 @@
 		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/进制转换.cpp">
 			<Option target="C_Study"/>
 		</Unit>
+		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/seatwork/06/chickenRabbit .cpp">
+			<Option target="C_Study"/>
+		</Unit>
 		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
