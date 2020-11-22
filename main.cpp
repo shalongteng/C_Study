@@ -5,8 +5,8 @@ using namespace std;
 
 int main() {
     int a = 2;
-    for (int i = 0; i < 10; ++i) {
-
-    }
-    printf("%d",(a=a<<2));
+    loop: a++;
+    if(a<10)
+        goto loop;
+    printf("%d",a);
 }
