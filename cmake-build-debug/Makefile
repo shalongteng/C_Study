@@ -1068,6 +1068,33 @@ seatwork/06/chickenRabbit_.cpp.s:
 	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/seatwork/06/chickenRabbit_.cpp.s
 .PHONY : seatwork/06/chickenRabbit_.cpp.s
 
+seatwork/06/hundred.o: seatwork/06/hundred.cpp.o
+
+.PHONY : seatwork/06/hundred.o
+
+# target to build an object file
+seatwork/06/hundred.cpp.o:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/seatwork/06/hundred.cpp.o
+.PHONY : seatwork/06/hundred.cpp.o
+
+seatwork/06/hundred.i: seatwork/06/hundred.cpp.i
+
+.PHONY : seatwork/06/hundred.i
+
+# target to preprocess a source file
+seatwork/06/hundred.cpp.i:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/seatwork/06/hundred.cpp.i
+.PHONY : seatwork/06/hundred.cpp.i
+
+seatwork/06/hundred.s: seatwork/06/hundred.cpp.s
+
+.PHONY : seatwork/06/hundred.s
+
+# target to generate assembly for a file
+seatwork/06/hundred.cpp.s:
+	$(MAKE) -f CMakeFiles/C_Study.dir/build.make CMakeFiles/C_Study.dir/seatwork/06/hundred.cpp.s
+.PHONY : seatwork/06/hundred.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -1182,6 +1209,9 @@ help:
 	@echo "... seatwork/06/chickenRabbit_.o"
 	@echo "... seatwork/06/chickenRabbit_.i"
 	@echo "... seatwork/06/chickenRabbit_.s"
+	@echo "... seatwork/06/hundred.o"
+	@echo "... seatwork/06/hundred.i"
+	@echo "... seatwork/06/hundred.s"
 .PHONY : help
 
 

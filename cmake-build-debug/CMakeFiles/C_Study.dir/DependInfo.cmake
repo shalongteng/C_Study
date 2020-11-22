@@ -47,6 +47,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/时刻转换.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.o"
   "/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/进制转换.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.o"
   "/Users/shalongteng/ClionProjects_test/C_Study/seatwork/06/chickenRabbit .cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/seatwork/06/chickenRabbit_.cpp.o"
+  "/Users/shalongteng/ClionProjects_test/C_Study/seatwork/06/hundred.cpp" "/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/seatwork/06/hundred.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

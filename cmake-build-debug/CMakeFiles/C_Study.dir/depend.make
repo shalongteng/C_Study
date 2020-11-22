@@ -69,3 +69,7 @@ CMakeFiles/C_Study.dir/schoolwork/第四章/时刻转换.cpp.o: ../schoolwork/�
 
 CMakeFiles/C_Study.dir/schoolwork/第四章/进制转换.cpp.o: ../schoolwork/第四章/进制转换.cpp
 
+CMakeFiles/C_Study.dir/seatwork/06/chickenRabbit_.cpp.o: ../seatwork/06/chickenRabbit\ .cpp
+
+CMakeFiles/C_Study.dir/seatwork/06/hundred.cpp.o: ../seatwork/06/hundred.cpp
+
