@@ -1,3 +1,4 @@
-ToolSet: 1.0 (local)Options: 
+ToolSet: w64 6.0 (local)@C:\Users\Gavin\soft\mingw64
+Options: 
 
-Options:
+Options:-DCMAKE_SH=CMAKE_SH-NOTFOUND

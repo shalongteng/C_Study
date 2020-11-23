@@ -8,187 +8,97 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="rebuild_cache">
-				<Option working_dir="/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug"/>
-				<Option type="4"/>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="C_Study">
-				<Option output="/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/C_Study" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug"/>
+				<Option output="C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/C_Study.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_Study"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_Study"/>
+					<CompileFile command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="C_Study/fast">
-				<Option output="/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/C_Study" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug"/>
+				<Option output="C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/C_Study.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
-					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
-					<Add directory="/System/Library/Frameworks"/>
-					<Add directory="/Library/Frameworks"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/Gavin/soft/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_Study/fast"/>
-					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_Study/fast"/>
+					<CompileFile command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/Gavin/soft/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/area.cpp">
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/IsLeapYear.cpp">
 			<Option target="C_Study"/>
 		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/debug.cpp">
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/JingjingGoesOnADate.cpp">
 			<Option target="C_Study"/>
 		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/leapYear.cpp">
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/chickenRabbit.cpp">
 			<Option target="C_Study"/>
 		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/与7无关的数.cpp">
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/nothingWithSeven.cpp">
 			<Option target="C_Study"/>
 		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/奇数求和.cpp">
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/sumOddNumber.cpp">
 			<Option target="C_Study"/>
 		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/贝贝找晶晶.cpp">
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/main.cpp">
 			<Option target="C_Study"/>
 		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/01感性认识计算机程序/鸡兔同笼.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/1的个数.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/三角形判断.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/数组逆序重放.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/02从现实问题到计算基础程序/计算三角形面积.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/奥运奖牌计数.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/数据类型.c">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/整数的个数.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/细菌的战争.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/03c语言中的数据成分/谁考了第k名.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/homework/04运算成分基础练习/第二个重复出现的数.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/main.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/数据类型/温度转换.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/数据类型/逆序打印.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第一周/输出学号.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/天数判断.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/星期推算.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第五章/特征数判断.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/test.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/图形打印.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/求和S.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/特征四位数.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第六章/追查车号.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/test.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/时刻转换.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/schoolwork/第四章/进制转换.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/seatwork/06/chickenRabbit .cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/seatwork/06/hundred.cpp">
-			<Option target="C_Study"/>
-		</Unit>
-		<Unit filename="/Users/shalongteng/ClionProjects_test/C_Study/CMakeLists.txt">
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
