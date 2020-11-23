@@ -11,5 +11,7 @@ CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.obj: ../ho
 
 CMakeFiles/C_Study.dir/homework/01basicExercises/sumOddNumber.cpp.obj: ../homework/01basicExercises/sumOddNumber.cpp
 
+CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj: ../homework/01basicExercises/triangleArea.cpp
+
 CMakeFiles/C_Study.dir/main.cpp.obj: ../main.cpp
 

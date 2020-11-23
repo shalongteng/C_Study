@@ -230,6 +230,33 @@ homework/01basicExercises/nothingWithSeven.cpp.s:
 	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.s
 .PHONY : homework/01basicExercises/nothingWithSeven.cpp.s
 
+homework/01basicExercises/reverseArray.obj: homework/01basicExercises/reverseArray.cpp.obj
+
+.PHONY : homework/01basicExercises/reverseArray.obj
+
+# target to build an object file
+homework/01basicExercises/reverseArray.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj
+.PHONY : homework/01basicExercises/reverseArray.cpp.obj
+
+homework/01basicExercises/reverseArray.i: homework/01basicExercises/reverseArray.cpp.i
+
+.PHONY : homework/01basicExercises/reverseArray.i
+
+# target to preprocess a source file
+homework/01basicExercises/reverseArray.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.i
+.PHONY : homework/01basicExercises/reverseArray.cpp.i
+
+homework/01basicExercises/reverseArray.s: homework/01basicExercises/reverseArray.cpp.s
+
+.PHONY : homework/01basicExercises/reverseArray.s
+
+# target to generate assembly for a file
+homework/01basicExercises/reverseArray.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.s
+.PHONY : homework/01basicExercises/reverseArray.cpp.s
+
 homework/01basicExercises/sumOddNumber.obj: homework/01basicExercises/sumOddNumber.cpp.obj
 
 .PHONY : homework/01basicExercises/sumOddNumber.obj
@@ -256,6 +283,33 @@ homework/01basicExercises/sumOddNumber.s: homework/01basicExercises/sumOddNumber
 homework/01basicExercises/sumOddNumber.cpp.s:
 	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/sumOddNumber.cpp.s
 .PHONY : homework/01basicExercises/sumOddNumber.cpp.s
+
+homework/01basicExercises/triangleArea.obj: homework/01basicExercises/triangleArea.cpp.obj
+
+.PHONY : homework/01basicExercises/triangleArea.obj
+
+# target to build an object file
+homework/01basicExercises/triangleArea.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj
+.PHONY : homework/01basicExercises/triangleArea.cpp.obj
+
+homework/01basicExercises/triangleArea.i: homework/01basicExercises/triangleArea.cpp.i
+
+.PHONY : homework/01basicExercises/triangleArea.i
+
+# target to preprocess a source file
+homework/01basicExercises/triangleArea.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.i
+.PHONY : homework/01basicExercises/triangleArea.cpp.i
+
+homework/01basicExercises/triangleArea.s: homework/01basicExercises/triangleArea.cpp.s
+
+.PHONY : homework/01basicExercises/triangleArea.s
+
+# target to generate assembly for a file
+homework/01basicExercises/triangleArea.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.s
+.PHONY : homework/01basicExercises/triangleArea.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -305,9 +359,15 @@ help:
 	@echo ... homework/01basicExercises/nothingWithSeven.obj
 	@echo ... homework/01basicExercises/nothingWithSeven.i
 	@echo ... homework/01basicExercises/nothingWithSeven.s
+	@echo ... homework/01basicExercises/reverseArray.obj
+	@echo ... homework/01basicExercises/reverseArray.i
+	@echo ... homework/01basicExercises/reverseArray.s
 	@echo ... homework/01basicExercises/sumOddNumber.obj
 	@echo ... homework/01basicExercises/sumOddNumber.i
 	@echo ... homework/01basicExercises/sumOddNumber.s
+	@echo ... homework/01basicExercises/triangleArea.obj
+	@echo ... homework/01basicExercises/triangleArea.i
+	@echo ... homework/01basicExercises/triangleArea.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

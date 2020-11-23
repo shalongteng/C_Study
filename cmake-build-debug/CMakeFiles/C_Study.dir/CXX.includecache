@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/nothingWithSeven.cpp
-stdio.h
+C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/triangleArea.cpp
+iostream
+-
+math.h
 -
 

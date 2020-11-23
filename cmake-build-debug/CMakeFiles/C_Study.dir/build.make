@@ -134,6 +134,32 @@ CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.s: cmake_f
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.s"
 	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\nothingWithSeven.cpp -o CMakeFiles\C_Study.dir\homework\01basicExercises\nothingWithSeven.cpp.s
 
+CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj: ../homework/01basicExercises/triangleArea.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\01basicExercises\triangleArea.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\triangleArea.cpp
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\triangleArea.cpp > CMakeFiles\C_Study.dir\homework\01basicExercises\triangleArea.cpp.i
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\triangleArea.cpp -o CMakeFiles\C_Study.dir\homework\01basicExercises\triangleArea.cpp.s
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj: ../homework/01basicExercises/reverseArray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\01basicExercises\reverseArray.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\reverseArray.cpp
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\reverseArray.cpp > CMakeFiles\C_Study.dir\homework\01basicExercises\reverseArray.cpp.i
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\reverseArray.cpp -o CMakeFiles\C_Study.dir\homework\01basicExercises\reverseArray.cpp.s
+
 # Object files for target C_Study
 C_Study_OBJECTS = \
 "CMakeFiles/C_Study.dir/main.cpp.obj" \
@@ -141,7 +167,9 @@ C_Study_OBJECTS = \
 "CMakeFiles/C_Study.dir/homework/01basicExercises/IsLeapYear.cpp.obj" \
 "CMakeFiles/C_Study.dir/homework/01basicExercises/chickenRabbit.cpp.obj" \
 "CMakeFiles/C_Study.dir/homework/01basicExercises/sumOddNumber.cpp.obj" \
-"CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.obj"
+"CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj"
 
 # External object files for target C_Study
 C_Study_EXTERNAL_OBJECTS =
@@ -152,11 +180,13 @@ C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/IsLeapYear.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/chickenRabbit.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/sumOddNumber.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/build.make
 C_Study.exe: CMakeFiles/C_Study.dir/linklibs.rsp
 C_Study.exe: CMakeFiles/C_Study.dir/objects1.rsp
 C_Study.exe: CMakeFiles/C_Study.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable C_Study.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable C_Study.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\C_Study.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

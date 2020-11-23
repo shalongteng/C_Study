@@ -92,7 +92,13 @@
 		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/nothingWithSeven.cpp">
 			<Option target="C_Study"/>
 		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/reverseArray.cpp">
+			<Option target="C_Study"/>
+		</Unit>
 		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/sumOddNumber.cpp">
+			<Option target="C_Study"/>
+		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/triangleArea.cpp">
 			<Option target="C_Study"/>
 		</Unit>
 		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/main.cpp">
