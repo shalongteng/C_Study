@@ -7,20 +7,42 @@
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" GENERATION_OPTIONS="-DCMAKE_SH=&quot;CMAKE_SH-NOTFOUND" />
     </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9beb8397-7303-4af0-b2be-bce70a3b311f" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/doc/PartA/11二维数组.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/PartA/11数组.md" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/doc/02print格式控制字符.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/01basicExercises/reverseArray.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/01basicExercises/triangleArea.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/cmake_clean.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/objects1.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C_Study.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/C_Study.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/01basicExercises/nothingWithSeven.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework/01basicExercises/nothingWithSeven.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp" afterDir="false" />
+>>>>>>> afe09fe56145f572a48ed02447bf478e67b58de3
     </list>
-    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -138,10 +160,16 @@
     <dirStrings>
       <dir>$PROJECT_DIR$/doc/03计算机的历史与未来</dir>
     </dirStrings>
+=======
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+>>>>>>> afe09fe56145f572a48ed02447bf478e67b58de3
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -232,12 +260,25 @@
       </pane>
       <pane id="Scope" />
     </panes>
+=======
+  <component name="ProjectId" id="1kfhBteGmo5YilzT3htlbLhNYzX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+>>>>>>> afe09fe56145f572a48ed02447bf478e67b58de3
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -253,18 +294,6 @@
       <recent name="$PROJECT_DIR$/doc/01计算机基本原理" />
       <recent name="$PROJECT_DIR$/homework/感性认识计算机程序" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
     <configuration name="C_Study" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Study" TARGET_NAME="C_Study" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Study" RUN_TARGET_NAME="C_Study">
@@ -293,6 +322,7 @@
       <workItem from="1599895667376" duration="158000" />
       <workItem from="1601113797337" duration="219000" />
       <workItem from="1602425788415" duration="4131000" />
+<<<<<<< HEAD
       <workItem from="1605882507265" duration="21902000" />
     </task>
     <servers />
@@ -738,5 +768,69 @@
         </state>
       </provider>
     </entry>
+=======
+      <workItem from="1605882507265" duration="19988000" />
+      <workItem from="1606097423812" duration="1152000" />
+      <workItem from="1606099361907" duration="45000" />
+      <workItem from="1606099442628" duration="639000" />
+      <workItem from="1606101449564" duration="334000" />
+      <workItem from="1606102180286" duration="12388000" />
+      <workItem from="1606124393145" duration="2041000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="717" y="302" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606097553785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="717" y="302" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606097553785" />
+    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1606110426650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1606110426650" />
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom" timestamp="1606123969634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606123969634" />
+    <state width="1877" height="232" key="GridCell.Tab.0.center" timestamp="1606123969634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606123969634" />
+    <state width="1877" height="232" key="GridCell.Tab.0.left" timestamp="1606123969634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606123969634" />
+    <state width="1877" height="232" key="GridCell.Tab.0.right" timestamp="1606123969634">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606123969634" />
+    <state width="1877" height="231" key="GridCell.Tab.1.bottom" timestamp="1606115940775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606115940775" />
+    <state width="1877" height="231" key="GridCell.Tab.1.center" timestamp="1606115940775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606115940775" />
+    <state width="1877" height="231" key="GridCell.Tab.1.left" timestamp="1606115940775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606115940775" />
+    <state width="1877" height="231" key="GridCell.Tab.1.right" timestamp="1606115940775">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606115940775" />
+    <state x="290" y="171" key="SettingsEditor" timestamp="1606103369893">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="290" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606103369893" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1606124450976">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606124450976" />
+>>>>>>> afe09fe56145f572a48ed02447bf478e67b58de3
   </component>
 </project>

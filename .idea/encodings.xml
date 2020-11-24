@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" addBOMForNewFiles="with NO BOM">
-    <file url="file://$PROJECT_DIR$/homework/03c语言中的数据成分/examination.cpp" charset="GBK" />
-    <file url="mock:///examination.cpp" charset="GBK" />
+  <component name="Encoding" defaultCharsetForPropertiesFiles="NO_ENCODING">
+    <file url="file://$PROJECT_DIR$/homework/01basicExercises/JingjingGoesOnADate.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homework/01basicExercises/chickenRabbit.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homework/01basicExercises/nothingWithSeven.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homework/01basicExercises/sumOddNumber.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homework/01basicExercises/triangleArea.cpp" charset="GBK" />
   </component>
 </project>

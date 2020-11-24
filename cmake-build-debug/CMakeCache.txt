@@ -218,12 +218,6 @@ C_Study_SOURCE_DIR:STATIC=/Users/shalongteng/ClionProjects_test/C_Study
 //Path to a program.
 ProcessorCount_cmd_sysctl:FILEPATH=/usr/sbin/sysctl
 
-//Value Computed by CMake
-helloWorld_BINARY_DIR:STATIC=/Users/shalongteng/ClionProjects_test/C_Study/cmake-build-debug
-
-//Value Computed by CMake
-helloWorld_SOURCE_DIR:STATIC=/Users/shalongteng/ClionProjects_test/C_Study
-
 
 ########################
 # INTERNAL cache entries
