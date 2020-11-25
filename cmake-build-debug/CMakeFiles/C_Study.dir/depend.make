@@ -31,6 +31,8 @@ CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj: ../homework/02data/me
 
 CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj: ../homework/02data/threeFiveSeven.cpp
 
+CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.obj: ../homework/03operation/ageAndSickness.cpp
+
 CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj: ../homework/03operation/second.cpp
 
 CMakeFiles/C_Study.dir/main.cpp.obj: ../main.cpp

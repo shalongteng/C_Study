@@ -19,6 +19,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/intCount.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/medalCount.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/threeFiveSeven.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/03operation/ageAndSickness.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/03operation/second.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/main.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/main.cpp.obj"
   )

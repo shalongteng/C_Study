@@ -14,6 +14,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj"
   "CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj"
   "CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj"
+  "CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.obj"
   "CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj"
   "CMakeFiles/C_Study.dir/main.cpp.obj"
   "C_Study.exe"

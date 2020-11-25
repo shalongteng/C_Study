@@ -527,6 +527,33 @@ homework/02data/threeFiveSeven.cpp.s:
 	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.s
 .PHONY : homework/02data/threeFiveSeven.cpp.s
 
+homework/03operation/ageAndSickness.obj: homework/03operation/ageAndSickness.cpp.obj
+
+.PHONY : homework/03operation/ageAndSickness.obj
+
+# target to build an object file
+homework/03operation/ageAndSickness.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.obj
+.PHONY : homework/03operation/ageAndSickness.cpp.obj
+
+homework/03operation/ageAndSickness.i: homework/03operation/ageAndSickness.cpp.i
+
+.PHONY : homework/03operation/ageAndSickness.i
+
+# target to preprocess a source file
+homework/03operation/ageAndSickness.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.i
+.PHONY : homework/03operation/ageAndSickness.cpp.i
+
+homework/03operation/ageAndSickness.s: homework/03operation/ageAndSickness.cpp.s
+
+.PHONY : homework/03operation/ageAndSickness.s
+
+# target to generate assembly for a file
+homework/03operation/ageAndSickness.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.s
+.PHONY : homework/03operation/ageAndSickness.cpp.s
+
 homework/03operation/second.obj: homework/03operation/second.cpp.obj
 
 .PHONY : homework/03operation/second.obj
@@ -635,6 +662,9 @@ help:
 	@echo ... homework/02data/threeFiveSeven.obj
 	@echo ... homework/02data/threeFiveSeven.i
 	@echo ... homework/02data/threeFiveSeven.s
+	@echo ... homework/03operation/ageAndSickness.obj
+	@echo ... homework/03operation/ageAndSickness.i
+	@echo ... homework/03operation/ageAndSickness.s
 	@echo ... homework/03operation/second.obj
 	@echo ... homework/03operation/second.i
 	@echo ... homework/03operation/second.s
