@@ -527,6 +527,33 @@ homework/02data/threeFiveSeven.cpp.s:
 	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.s
 .PHONY : homework/02data/threeFiveSeven.cpp.s
 
+homework/03operation/PayByRMB.obj: homework/03operation/PayByRMB.cpp.obj
+
+.PHONY : homework/03operation/PayByRMB.obj
+
+# target to build an object file
+homework/03operation/PayByRMB.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.obj
+.PHONY : homework/03operation/PayByRMB.cpp.obj
+
+homework/03operation/PayByRMB.i: homework/03operation/PayByRMB.cpp.i
+
+.PHONY : homework/03operation/PayByRMB.i
+
+# target to preprocess a source file
+homework/03operation/PayByRMB.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.i
+.PHONY : homework/03operation/PayByRMB.cpp.i
+
+homework/03operation/PayByRMB.s: homework/03operation/PayByRMB.cpp.s
+
+.PHONY : homework/03operation/PayByRMB.s
+
+# target to generate assembly for a file
+homework/03operation/PayByRMB.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.s
+.PHONY : homework/03operation/PayByRMB.cpp.s
+
 homework/03operation/ageAndSickness.obj: homework/03operation/ageAndSickness.cpp.obj
 
 .PHONY : homework/03operation/ageAndSickness.obj
@@ -554,6 +581,33 @@ homework/03operation/ageAndSickness.cpp.s:
 	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.s
 .PHONY : homework/03operation/ageAndSickness.cpp.s
 
+homework/03operation/fractionalSum.obj: homework/03operation/fractionalSum.cpp.obj
+
+.PHONY : homework/03operation/fractionalSum.obj
+
+# target to build an object file
+homework/03operation/fractionalSum.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.obj
+.PHONY : homework/03operation/fractionalSum.cpp.obj
+
+homework/03operation/fractionalSum.i: homework/03operation/fractionalSum.cpp.i
+
+.PHONY : homework/03operation/fractionalSum.i
+
+# target to preprocess a source file
+homework/03operation/fractionalSum.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.i
+.PHONY : homework/03operation/fractionalSum.cpp.i
+
+homework/03operation/fractionalSum.s: homework/03operation/fractionalSum.cpp.s
+
+.PHONY : homework/03operation/fractionalSum.s
+
+# target to generate assembly for a file
+homework/03operation/fractionalSum.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.s
+.PHONY : homework/03operation/fractionalSum.cpp.s
+
 homework/03operation/second.obj: homework/03operation/second.cpp.obj
 
 .PHONY : homework/03operation/second.obj
@@ -580,6 +634,87 @@ homework/03operation/second.s: homework/03operation/second.cpp.s
 homework/03operation/second.cpp.s:
 	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/second.cpp.s
 .PHONY : homework/03operation/second.cpp.s
+
+homework/03operation/specialNumber.obj: homework/03operation/specialNumber.cpp.obj
+
+.PHONY : homework/03operation/specialNumber.obj
+
+# target to build an object file
+homework/03operation/specialNumber.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.obj
+.PHONY : homework/03operation/specialNumber.cpp.obj
+
+homework/03operation/specialNumber.i: homework/03operation/specialNumber.cpp.i
+
+.PHONY : homework/03operation/specialNumber.i
+
+# target to preprocess a source file
+homework/03operation/specialNumber.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.i
+.PHONY : homework/03operation/specialNumber.cpp.i
+
+homework/03operation/specialNumber.s: homework/03operation/specialNumber.cpp.s
+
+.PHONY : homework/03operation/specialNumber.s
+
+# target to generate assembly for a file
+homework/03operation/specialNumber.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.s
+.PHONY : homework/03operation/specialNumber.cpp.s
+
+homework/04control/food.obj: homework/04control/food.cpp.obj
+
+.PHONY : homework/04control/food.obj
+
+# target to build an object file
+homework/04control/food.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/04control/food.cpp.obj
+.PHONY : homework/04control/food.cpp.obj
+
+homework/04control/food.i: homework/04control/food.cpp.i
+
+.PHONY : homework/04control/food.i
+
+# target to preprocess a source file
+homework/04control/food.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/04control/food.cpp.i
+.PHONY : homework/04control/food.cpp.i
+
+homework/04control/food.s: homework/04control/food.cpp.s
+
+.PHONY : homework/04control/food.s
+
+# target to generate assembly for a file
+homework/04control/food.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/04control/food.cpp.s
+.PHONY : homework/04control/food.cpp.s
+
+homework/04control/perfectCube.obj: homework/04control/perfectCube.cpp.obj
+
+.PHONY : homework/04control/perfectCube.obj
+
+# target to build an object file
+homework/04control/perfectCube.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.obj
+.PHONY : homework/04control/perfectCube.cpp.obj
+
+homework/04control/perfectCube.i: homework/04control/perfectCube.cpp.i
+
+.PHONY : homework/04control/perfectCube.i
+
+# target to preprocess a source file
+homework/04control/perfectCube.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.i
+.PHONY : homework/04control/perfectCube.cpp.i
+
+homework/04control/perfectCube.s: homework/04control/perfectCube.cpp.s
+
+.PHONY : homework/04control/perfectCube.s
+
+# target to generate assembly for a file
+homework/04control/perfectCube.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.s
+.PHONY : homework/04control/perfectCube.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -662,12 +797,27 @@ help:
 	@echo ... homework/02data/threeFiveSeven.obj
 	@echo ... homework/02data/threeFiveSeven.i
 	@echo ... homework/02data/threeFiveSeven.s
+	@echo ... homework/03operation/PayByRMB.obj
+	@echo ... homework/03operation/PayByRMB.i
+	@echo ... homework/03operation/PayByRMB.s
 	@echo ... homework/03operation/ageAndSickness.obj
 	@echo ... homework/03operation/ageAndSickness.i
 	@echo ... homework/03operation/ageAndSickness.s
+	@echo ... homework/03operation/fractionalSum.obj
+	@echo ... homework/03operation/fractionalSum.i
+	@echo ... homework/03operation/fractionalSum.s
 	@echo ... homework/03operation/second.obj
 	@echo ... homework/03operation/second.i
 	@echo ... homework/03operation/second.s
+	@echo ... homework/03operation/specialNumber.obj
+	@echo ... homework/03operation/specialNumber.i
+	@echo ... homework/03operation/specialNumber.s
+	@echo ... homework/04control/food.obj
+	@echo ... homework/04control/food.i
+	@echo ... homework/04control/food.s
+	@echo ... homework/04control/perfectCube.obj
+	@echo ... homework/04control/perfectCube.i
+	@echo ... homework/04control/perfectCube.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

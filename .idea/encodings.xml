@@ -7,6 +7,10 @@
     <file url="file://$PROJECT_DIR$/homework/01basicExercises/sumOddNumber.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/homework/01basicExercises/triangleArea.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/homework/02data/examK.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homework/03operation/ageAndSickness.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homework/03operation/fractionalSum.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/homework/03operation/second.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homework/03operation/specialNumber.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/homework/04control/food.cpp" charset="GBK" />
   </component>
 </project>

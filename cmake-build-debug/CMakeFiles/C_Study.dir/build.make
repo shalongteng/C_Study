@@ -290,6 +290,71 @@ CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.s"
 	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\ageAndSickness.cpp -o CMakeFiles\C_Study.dir\homework\03operation\ageAndSickness.cpp.s
 
+CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.obj: ../homework/03operation/fractionalSum.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\03operation\fractionalSum.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\fractionalSum.cpp
+
+CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\fractionalSum.cpp > CMakeFiles\C_Study.dir\homework\03operation\fractionalSum.cpp.i
+
+CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\fractionalSum.cpp -o CMakeFiles\C_Study.dir\homework\03operation\fractionalSum.cpp.s
+
+CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.obj: ../homework/03operation/PayByRMB.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\03operation\PayByRMB.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\PayByRMB.cpp
+
+CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\PayByRMB.cpp > CMakeFiles\C_Study.dir\homework\03operation\PayByRMB.cpp.i
+
+CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\PayByRMB.cpp -o CMakeFiles\C_Study.dir\homework\03operation\PayByRMB.cpp.s
+
+CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.obj: ../homework/03operation/specialNumber.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\03operation\specialNumber.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\specialNumber.cpp
+
+CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\specialNumber.cpp > CMakeFiles\C_Study.dir\homework\03operation\specialNumber.cpp.i
+
+CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\specialNumber.cpp -o CMakeFiles\C_Study.dir\homework\03operation\specialNumber.cpp.s
+
+CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.obj: ../homework/04control/perfectCube.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\04control\perfectCube.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\04control\perfectCube.cpp
+
+CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\04control\perfectCube.cpp > CMakeFiles\C_Study.dir\homework\04control\perfectCube.cpp.i
+
+CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\04control\perfectCube.cpp -o CMakeFiles\C_Study.dir\homework\04control\perfectCube.cpp.s
+
+CMakeFiles/C_Study.dir/homework/04control/food.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/04control/food.cpp.obj: ../homework/04control/food.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/C_Study.dir/homework/04control/food.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\04control\food.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\04control\food.cpp
+
+CMakeFiles/C_Study.dir/homework/04control/food.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/04control/food.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\04control\food.cpp > CMakeFiles\C_Study.dir\homework\04control\food.cpp.i
+
+CMakeFiles/C_Study.dir/homework/04control/food.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/04control/food.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\04control\food.cpp -o CMakeFiles\C_Study.dir\homework\04control\food.cpp.s
+
 # Object files for target C_Study
 C_Study_OBJECTS = \
 "CMakeFiles/C_Study.dir/main.cpp.obj" \
@@ -309,7 +374,12 @@ C_Study_OBJECTS = \
 "CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.obj" \
 "CMakeFiles/C_Study.dir/homework/02data/examK.cpp.obj" \
 "CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj" \
-"CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.obj"
+"CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/04control/food.cpp.obj"
 
 # External object files for target C_Study
 C_Study_EXTERNAL_OBJECTS =
@@ -332,11 +402,16 @@ C_Study.exe: CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/homework/02data/examK.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/04control/food.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/build.make
 C_Study.exe: CMakeFiles/C_Study.dir/linklibs.rsp
 C_Study.exe: CMakeFiles/C_Study.dir/objects1.rsp
 C_Study.exe: CMakeFiles/C_Study.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Linking CXX executable C_Study.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Linking CXX executable C_Study.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\C_Study.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

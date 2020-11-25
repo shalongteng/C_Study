@@ -19,8 +19,13 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/intCount.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/medalCount.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/threeFiveSeven.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/03operation/PayByRMB.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03operation/PayByRMB.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/03operation/ageAndSickness.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03operation/ageAndSickness.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/03operation/fractionalSum.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03operation/fractionalSum.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/03operation/second.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/03operation/specialNumber.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03operation/specialNumber.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/04control/food.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/04control/food.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/04control/perfectCube.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/04control/perfectCube.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/main.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
