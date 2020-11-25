@@ -12,45 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9beb8397-7303-4af0-b2be-bce70a3b311f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/01basicExercises/Istriangle.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/01basicExercises/PointsAndSquares.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/01basicExercises/oneCount.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02data/bacteriaWar.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02data/examK.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02data/intCount.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02data/medalCount.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/02data/threeFiveSeven.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/03operation/second.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/depend.internal" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/objects1.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/objects1.rsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/C_Study.dir/progress.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/C_Study.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/C_Study.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doc/PartA/01课程介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/PartA/01课程介绍.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/01basicExercises/reverseArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework/01basicExercises/reverseArray.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/01basicExercises/triangleArea.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework/01basicExercises/triangleArea.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/1的个数.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/三角形判断.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/数组逆序重放.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/奥运奖牌计数.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/数据类型.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/整数的个数.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/细菌的战争.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/谁考了第k名.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/04运算成分基础练习/第二个重复出现的数.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework/03operation/第二个重复出现的数.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,6 +94,7 @@
       <workItem from="1606102180286" duration="12388000" />
       <workItem from="1606124393145" duration="2702000" />
       <workItem from="1606181595041" duration="23907000" />
+      <workItem from="1606267891917" duration="228000" />
     </task>
     <servers />
   </component>
@@ -187,13 +150,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="290" y="171" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606103369893" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1606124450976">
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1606267899726">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606124450976" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606267899726" />
     <state x="636" y="119" width="647" height="801" key="find.popup" timestamp="1606186145993">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="636" y="119" width="647" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606186145993" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606267955894">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606267955894" />
   </component>
 </project>
