@@ -12,9 +12,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9beb8397-7303-4af0-b2be-bce70a3b311f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/doc/02print格式控制字符.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/01basicExercises/reverseArray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/01basicExercises/triangleArea.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/01basicExercises/Istriangle.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/01basicExercises/PointsAndSquares.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/01basicExercises/oneCount.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02data/bacteriaWar.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02data/examK.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02data/intCount.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02data/medalCount.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/02data/threeFiveSeven.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/03operation/second.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
@@ -30,8 +36,21 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/C_Study.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/C_Study.cbp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/01basicExercises/nothingWithSeven.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework/01basicExercises/nothingWithSeven.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/PartA/01课程介绍.md" beforeDir="false" afterPath="$PROJECT_DIR$/doc/PartA/01课程介绍.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/01basicExercises/reverseArray.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework/01basicExercises/reverseArray.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/01basicExercises/triangleArea.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework/01basicExercises/triangleArea.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/1的个数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/三角形判断.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/数组逆序重放.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/点和正方形的关系.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/02从现实问题到计算基础程序/计算三角形面积.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/奥运奖牌计数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/数据类型.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/整数的个数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/细菌的战争.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/能被3，5，7整除的数.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/03c语言中的数据成分/谁考了第k名.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/homework/04运算成分基础练习/第二个重复出现的数.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/homework/03operation/第二个重复出现的数.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +130,8 @@
       <workItem from="1606099442628" duration="639000" />
       <workItem from="1606101449564" duration="334000" />
       <workItem from="1606102180286" duration="12388000" />
-      <workItem from="1606124393145" duration="2041000" />
+      <workItem from="1606124393145" duration="2702000" />
+      <workItem from="1606181595041" duration="23907000" />
     </task>
     <servers />
   </component>
@@ -123,42 +143,46 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="717" y="302" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606097553785" />
-    <state x="715" y="222" key="#xdebugger.evaluate" timestamp="1606110426650">
+    <state x="879" y="338" key="#xdebugger.evaluate" timestamp="1606198575225">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="715" y="222" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1606110426650" />
-    <state width="1877" height="232" key="GridCell.Tab.0.bottom" timestamp="1606123969634">
+    <state x="879" y="338" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1606198575225" />
+    <state width="392" height="466" key="DebuggerActiveHint" timestamp="1606215931995">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606123969634" />
-    <state width="1877" height="232" key="GridCell.Tab.0.center" timestamp="1606123969634">
+    <state width="392" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1606215931995" />
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom" timestamp="1606216394044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606123969634" />
-    <state width="1877" height="232" key="GridCell.Tab.0.left" timestamp="1606123969634">
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606216394044" />
+    <state width="1877" height="232" key="GridCell.Tab.0.center" timestamp="1606216394044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606123969634" />
-    <state width="1877" height="232" key="GridCell.Tab.0.right" timestamp="1606123969634">
+    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606216394044" />
+    <state width="1877" height="232" key="GridCell.Tab.0.left" timestamp="1606216394044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606123969634" />
-    <state width="1877" height="231" key="GridCell.Tab.1.bottom" timestamp="1606115940775">
+    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606216394044" />
+    <state width="1877" height="232" key="GridCell.Tab.0.right" timestamp="1606216394044">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="231" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606115940775" />
-    <state width="1877" height="231" key="GridCell.Tab.1.center" timestamp="1606115940775">
+    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606216394044" />
+    <state width="1877" height="231" key="GridCell.Tab.1.bottom" timestamp="1606216120704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="231" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606115940775" />
-    <state width="1877" height="231" key="GridCell.Tab.1.left" timestamp="1606115940775">
+    <state width="1877" height="231" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606216120704" />
+    <state width="1877" height="231" key="GridCell.Tab.1.center" timestamp="1606216120704">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="231" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606115940775" />
-    <state width="1877" height="231" key="GridCell.Tab.1.right" timestamp="1606115940775">
+    <state width="1877" height="231" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606216120704" />
+    <state width="1877" height="231" key="GridCell.Tab.1.left" timestamp="1606216120703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="231" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606115940775" />
+    <state width="1877" height="231" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606216120703" />
+    <state width="1877" height="231" key="GridCell.Tab.1.right" timestamp="1606216120704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="231" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606216120704" />
     <state x="290" y="171" key="SettingsEditor" timestamp="1606103369893">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -167,5 +191,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606124450976" />
+    <state x="636" y="119" width="647" height="801" key="find.popup" timestamp="1606186145993">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="119" width="647" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606186145993" />
   </component>
 </project>

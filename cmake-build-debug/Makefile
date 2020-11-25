@@ -149,6 +149,33 @@ homework/01basicExercises/IsLeapYear.cpp.s:
 	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/IsLeapYear.cpp.s
 .PHONY : homework/01basicExercises/IsLeapYear.cpp.s
 
+homework/01basicExercises/Istriangle.obj: homework/01basicExercises/Istriangle.cpp.obj
+
+.PHONY : homework/01basicExercises/Istriangle.obj
+
+# target to build an object file
+homework/01basicExercises/Istriangle.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.obj
+.PHONY : homework/01basicExercises/Istriangle.cpp.obj
+
+homework/01basicExercises/Istriangle.i: homework/01basicExercises/Istriangle.cpp.i
+
+.PHONY : homework/01basicExercises/Istriangle.i
+
+# target to preprocess a source file
+homework/01basicExercises/Istriangle.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.i
+.PHONY : homework/01basicExercises/Istriangle.cpp.i
+
+homework/01basicExercises/Istriangle.s: homework/01basicExercises/Istriangle.cpp.s
+
+.PHONY : homework/01basicExercises/Istriangle.s
+
+# target to generate assembly for a file
+homework/01basicExercises/Istriangle.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.s
+.PHONY : homework/01basicExercises/Istriangle.cpp.s
+
 homework/01basicExercises/JingjingGoesOnADate.obj: homework/01basicExercises/JingjingGoesOnADate.cpp.obj
 
 .PHONY : homework/01basicExercises/JingjingGoesOnADate.obj
@@ -175,6 +202,33 @@ homework/01basicExercises/JingjingGoesOnADate.s: homework/01basicExercises/Jingj
 homework/01basicExercises/JingjingGoesOnADate.cpp.s:
 	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/JingjingGoesOnADate.cpp.s
 .PHONY : homework/01basicExercises/JingjingGoesOnADate.cpp.s
+
+homework/01basicExercises/PointsAndSquares.obj: homework/01basicExercises/PointsAndSquares.cpp.obj
+
+.PHONY : homework/01basicExercises/PointsAndSquares.obj
+
+# target to build an object file
+homework/01basicExercises/PointsAndSquares.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.obj
+.PHONY : homework/01basicExercises/PointsAndSquares.cpp.obj
+
+homework/01basicExercises/PointsAndSquares.i: homework/01basicExercises/PointsAndSquares.cpp.i
+
+.PHONY : homework/01basicExercises/PointsAndSquares.i
+
+# target to preprocess a source file
+homework/01basicExercises/PointsAndSquares.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.i
+.PHONY : homework/01basicExercises/PointsAndSquares.cpp.i
+
+homework/01basicExercises/PointsAndSquares.s: homework/01basicExercises/PointsAndSquares.cpp.s
+
+.PHONY : homework/01basicExercises/PointsAndSquares.s
+
+# target to generate assembly for a file
+homework/01basicExercises/PointsAndSquares.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.s
+.PHONY : homework/01basicExercises/PointsAndSquares.cpp.s
 
 homework/01basicExercises/chickenRabbit.obj: homework/01basicExercises/chickenRabbit.cpp.obj
 
@@ -229,6 +283,33 @@ homework/01basicExercises/nothingWithSeven.s: homework/01basicExercises/nothingW
 homework/01basicExercises/nothingWithSeven.cpp.s:
 	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.s
 .PHONY : homework/01basicExercises/nothingWithSeven.cpp.s
+
+homework/01basicExercises/oneCount.obj: homework/01basicExercises/oneCount.cpp.obj
+
+.PHONY : homework/01basicExercises/oneCount.obj
+
+# target to build an object file
+homework/01basicExercises/oneCount.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.obj
+.PHONY : homework/01basicExercises/oneCount.cpp.obj
+
+homework/01basicExercises/oneCount.i: homework/01basicExercises/oneCount.cpp.i
+
+.PHONY : homework/01basicExercises/oneCount.i
+
+# target to preprocess a source file
+homework/01basicExercises/oneCount.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.i
+.PHONY : homework/01basicExercises/oneCount.cpp.i
+
+homework/01basicExercises/oneCount.s: homework/01basicExercises/oneCount.cpp.s
+
+.PHONY : homework/01basicExercises/oneCount.s
+
+# target to generate assembly for a file
+homework/01basicExercises/oneCount.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.s
+.PHONY : homework/01basicExercises/oneCount.cpp.s
 
 homework/01basicExercises/reverseArray.obj: homework/01basicExercises/reverseArray.cpp.obj
 
@@ -311,6 +392,168 @@ homework/01basicExercises/triangleArea.cpp.s:
 	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.s
 .PHONY : homework/01basicExercises/triangleArea.cpp.s
 
+homework/02data/bacteriaWar.obj: homework/02data/bacteriaWar.cpp.obj
+
+.PHONY : homework/02data/bacteriaWar.obj
+
+# target to build an object file
+homework/02data/bacteriaWar.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.obj
+.PHONY : homework/02data/bacteriaWar.cpp.obj
+
+homework/02data/bacteriaWar.i: homework/02data/bacteriaWar.cpp.i
+
+.PHONY : homework/02data/bacteriaWar.i
+
+# target to preprocess a source file
+homework/02data/bacteriaWar.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.i
+.PHONY : homework/02data/bacteriaWar.cpp.i
+
+homework/02data/bacteriaWar.s: homework/02data/bacteriaWar.cpp.s
+
+.PHONY : homework/02data/bacteriaWar.s
+
+# target to generate assembly for a file
+homework/02data/bacteriaWar.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.s
+.PHONY : homework/02data/bacteriaWar.cpp.s
+
+homework/02data/examK.obj: homework/02data/examK.cpp.obj
+
+.PHONY : homework/02data/examK.obj
+
+# target to build an object file
+homework/02data/examK.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/examK.cpp.obj
+.PHONY : homework/02data/examK.cpp.obj
+
+homework/02data/examK.i: homework/02data/examK.cpp.i
+
+.PHONY : homework/02data/examK.i
+
+# target to preprocess a source file
+homework/02data/examK.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/examK.cpp.i
+.PHONY : homework/02data/examK.cpp.i
+
+homework/02data/examK.s: homework/02data/examK.cpp.s
+
+.PHONY : homework/02data/examK.s
+
+# target to generate assembly for a file
+homework/02data/examK.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/examK.cpp.s
+.PHONY : homework/02data/examK.cpp.s
+
+homework/02data/intCount.obj: homework/02data/intCount.cpp.obj
+
+.PHONY : homework/02data/intCount.obj
+
+# target to build an object file
+homework/02data/intCount.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj
+.PHONY : homework/02data/intCount.cpp.obj
+
+homework/02data/intCount.i: homework/02data/intCount.cpp.i
+
+.PHONY : homework/02data/intCount.i
+
+# target to preprocess a source file
+homework/02data/intCount.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.i
+.PHONY : homework/02data/intCount.cpp.i
+
+homework/02data/intCount.s: homework/02data/intCount.cpp.s
+
+.PHONY : homework/02data/intCount.s
+
+# target to generate assembly for a file
+homework/02data/intCount.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.s
+.PHONY : homework/02data/intCount.cpp.s
+
+homework/02data/medalCount.obj: homework/02data/medalCount.cpp.obj
+
+.PHONY : homework/02data/medalCount.obj
+
+# target to build an object file
+homework/02data/medalCount.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj
+.PHONY : homework/02data/medalCount.cpp.obj
+
+homework/02data/medalCount.i: homework/02data/medalCount.cpp.i
+
+.PHONY : homework/02data/medalCount.i
+
+# target to preprocess a source file
+homework/02data/medalCount.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.i
+.PHONY : homework/02data/medalCount.cpp.i
+
+homework/02data/medalCount.s: homework/02data/medalCount.cpp.s
+
+.PHONY : homework/02data/medalCount.s
+
+# target to generate assembly for a file
+homework/02data/medalCount.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.s
+.PHONY : homework/02data/medalCount.cpp.s
+
+homework/02data/threeFiveSeven.obj: homework/02data/threeFiveSeven.cpp.obj
+
+.PHONY : homework/02data/threeFiveSeven.obj
+
+# target to build an object file
+homework/02data/threeFiveSeven.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj
+.PHONY : homework/02data/threeFiveSeven.cpp.obj
+
+homework/02data/threeFiveSeven.i: homework/02data/threeFiveSeven.cpp.i
+
+.PHONY : homework/02data/threeFiveSeven.i
+
+# target to preprocess a source file
+homework/02data/threeFiveSeven.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.i
+.PHONY : homework/02data/threeFiveSeven.cpp.i
+
+homework/02data/threeFiveSeven.s: homework/02data/threeFiveSeven.cpp.s
+
+.PHONY : homework/02data/threeFiveSeven.s
+
+# target to generate assembly for a file
+homework/02data/threeFiveSeven.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.s
+.PHONY : homework/02data/threeFiveSeven.cpp.s
+
+homework/03operation/second.obj: homework/03operation/second.cpp.obj
+
+.PHONY : homework/03operation/second.obj
+
+# target to build an object file
+homework/03operation/second.cpp.obj:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj
+.PHONY : homework/03operation/second.cpp.obj
+
+homework/03operation/second.i: homework/03operation/second.cpp.i
+
+.PHONY : homework/03operation/second.i
+
+# target to preprocess a source file
+homework/03operation/second.cpp.i:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/second.cpp.i
+.PHONY : homework/03operation/second.cpp.i
+
+homework/03operation/second.s: homework/03operation/second.cpp.s
+
+.PHONY : homework/03operation/second.s
+
+# target to generate assembly for a file
+homework/03operation/second.cpp.s:
+	$(MAKE) -f CMakeFiles\C_Study.dir\build.make CMakeFiles/C_Study.dir/homework/03operation/second.cpp.s
+.PHONY : homework/03operation/second.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -350,15 +593,24 @@ help:
 	@echo ... homework/01basicExercises/IsLeapYear.obj
 	@echo ... homework/01basicExercises/IsLeapYear.i
 	@echo ... homework/01basicExercises/IsLeapYear.s
+	@echo ... homework/01basicExercises/Istriangle.obj
+	@echo ... homework/01basicExercises/Istriangle.i
+	@echo ... homework/01basicExercises/Istriangle.s
 	@echo ... homework/01basicExercises/JingjingGoesOnADate.obj
 	@echo ... homework/01basicExercises/JingjingGoesOnADate.i
 	@echo ... homework/01basicExercises/JingjingGoesOnADate.s
+	@echo ... homework/01basicExercises/PointsAndSquares.obj
+	@echo ... homework/01basicExercises/PointsAndSquares.i
+	@echo ... homework/01basicExercises/PointsAndSquares.s
 	@echo ... homework/01basicExercises/chickenRabbit.obj
 	@echo ... homework/01basicExercises/chickenRabbit.i
 	@echo ... homework/01basicExercises/chickenRabbit.s
 	@echo ... homework/01basicExercises/nothingWithSeven.obj
 	@echo ... homework/01basicExercises/nothingWithSeven.i
 	@echo ... homework/01basicExercises/nothingWithSeven.s
+	@echo ... homework/01basicExercises/oneCount.obj
+	@echo ... homework/01basicExercises/oneCount.i
+	@echo ... homework/01basicExercises/oneCount.s
 	@echo ... homework/01basicExercises/reverseArray.obj
 	@echo ... homework/01basicExercises/reverseArray.i
 	@echo ... homework/01basicExercises/reverseArray.s
@@ -368,6 +620,24 @@ help:
 	@echo ... homework/01basicExercises/triangleArea.obj
 	@echo ... homework/01basicExercises/triangleArea.i
 	@echo ... homework/01basicExercises/triangleArea.s
+	@echo ... homework/02data/bacteriaWar.obj
+	@echo ... homework/02data/bacteriaWar.i
+	@echo ... homework/02data/bacteriaWar.s
+	@echo ... homework/02data/examK.obj
+	@echo ... homework/02data/examK.i
+	@echo ... homework/02data/examK.s
+	@echo ... homework/02data/intCount.obj
+	@echo ... homework/02data/intCount.i
+	@echo ... homework/02data/intCount.s
+	@echo ... homework/02data/medalCount.obj
+	@echo ... homework/02data/medalCount.i
+	@echo ... homework/02data/medalCount.s
+	@echo ... homework/02data/threeFiveSeven.obj
+	@echo ... homework/02data/threeFiveSeven.i
+	@echo ... homework/02data/threeFiveSeven.s
+	@echo ... homework/03operation/second.obj
+	@echo ... homework/03operation/second.i
+	@echo ... homework/03operation/second.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

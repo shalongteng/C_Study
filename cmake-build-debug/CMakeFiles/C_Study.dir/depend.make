@@ -3,15 +3,35 @@
 
 CMakeFiles/C_Study.dir/homework/01basicExercises/IsLeapYear.cpp.obj: ../homework/01basicExercises/IsLeapYear.cpp
 
+CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.obj: ../homework/01basicExercises/Istriangle.cpp
+
 CMakeFiles/C_Study.dir/homework/01basicExercises/JingjingGoesOnADate.cpp.obj: ../homework/01basicExercises/JingjingGoesOnADate.cpp
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.obj: ../homework/01basicExercises/PointsAndSquares.cpp
 
 CMakeFiles/C_Study.dir/homework/01basicExercises/chickenRabbit.cpp.obj: ../homework/01basicExercises/chickenRabbit.cpp
 
 CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.obj: ../homework/01basicExercises/nothingWithSeven.cpp
 
+CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.obj: ../homework/01basicExercises/oneCount.cpp
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj: ../homework/01basicExercises/reverseArray.cpp
+
 CMakeFiles/C_Study.dir/homework/01basicExercises/sumOddNumber.cpp.obj: ../homework/01basicExercises/sumOddNumber.cpp
 
 CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj: ../homework/01basicExercises/triangleArea.cpp
+
+CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.obj: ../homework/02data/bacteriaWar.cpp
+
+CMakeFiles/C_Study.dir/homework/02data/examK.cpp.obj: ../homework/02data/examK.cpp
+
+CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj: ../homework/02data/intCount.cpp
+
+CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj: ../homework/02data/medalCount.cpp
+
+CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj: ../homework/02data/threeFiveSeven.cpp
+
+CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj: ../homework/03operation/second.cpp
 
 CMakeFiles/C_Study.dir/main.cpp.obj: ../main.cpp
 

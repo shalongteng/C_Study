@@ -160,6 +160,123 @@ CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.s"
 	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\reverseArray.cpp -o CMakeFiles\C_Study.dir\homework\01basicExercises\reverseArray.cpp.s
 
+CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.obj: ../homework/01basicExercises/PointsAndSquares.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\01basicExercises\PointsAndSquares.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\PointsAndSquares.cpp
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\PointsAndSquares.cpp > CMakeFiles\C_Study.dir\homework\01basicExercises\PointsAndSquares.cpp.i
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\PointsAndSquares.cpp -o CMakeFiles\C_Study.dir\homework\01basicExercises\PointsAndSquares.cpp.s
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.obj: ../homework/01basicExercises/Istriangle.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\01basicExercises\Istriangle.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\Istriangle.cpp
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\Istriangle.cpp > CMakeFiles\C_Study.dir\homework\01basicExercises\Istriangle.cpp.i
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\Istriangle.cpp -o CMakeFiles\C_Study.dir\homework\01basicExercises\Istriangle.cpp.s
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.obj: ../homework/01basicExercises/oneCount.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\01basicExercises\oneCount.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\oneCount.cpp
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\oneCount.cpp > CMakeFiles\C_Study.dir\homework\01basicExercises\oneCount.cpp.i
+
+CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\01basicExercises\oneCount.cpp -o CMakeFiles\C_Study.dir\homework\01basicExercises\oneCount.cpp.s
+
+CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj: ../homework/02data/intCount.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Building CXX object CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\02data\intCount.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\02data\intCount.cpp
+
+CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\02data\intCount.cpp > CMakeFiles\C_Study.dir\homework\02data\intCount.cpp.i
+
+CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\02data\intCount.cpp -o CMakeFiles\C_Study.dir\homework\02data\intCount.cpp.s
+
+CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj: ../homework/02data/medalCount.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\02data\medalCount.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\02data\medalCount.cpp
+
+CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\02data\medalCount.cpp > CMakeFiles\C_Study.dir\homework\02data\medalCount.cpp.i
+
+CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\02data\medalCount.cpp -o CMakeFiles\C_Study.dir\homework\02data\medalCount.cpp.s
+
+CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj: ../homework/02data/threeFiveSeven.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\02data\threeFiveSeven.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\02data\threeFiveSeven.cpp
+
+CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\02data\threeFiveSeven.cpp > CMakeFiles\C_Study.dir\homework\02data\threeFiveSeven.cpp.i
+
+CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\02data\threeFiveSeven.cpp -o CMakeFiles\C_Study.dir\homework\02data\threeFiveSeven.cpp.s
+
+CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.obj: ../homework/02data/bacteriaWar.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\02data\bacteriaWar.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\02data\bacteriaWar.cpp
+
+CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\02data\bacteriaWar.cpp > CMakeFiles\C_Study.dir\homework\02data\bacteriaWar.cpp.i
+
+CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\02data\bacteriaWar.cpp -o CMakeFiles\C_Study.dir\homework\02data\bacteriaWar.cpp.s
+
+CMakeFiles/C_Study.dir/homework/02data/examK.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/02data/examK.cpp.obj: ../homework/02data/examK.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/C_Study.dir/homework/02data/examK.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\02data\examK.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\02data\examK.cpp
+
+CMakeFiles/C_Study.dir/homework/02data/examK.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/02data/examK.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\02data\examK.cpp > CMakeFiles\C_Study.dir\homework\02data\examK.cpp.i
+
+CMakeFiles/C_Study.dir/homework/02data/examK.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/02data/examK.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\02data\examK.cpp -o CMakeFiles\C_Study.dir\homework\02data\examK.cpp.s
+
+CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj: CMakeFiles/C_Study.dir/flags.make
+CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj: ../homework/03operation/second.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\C_Study.dir\homework\03operation\second.cpp.obj -c C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\second.cpp
+
+CMakeFiles/C_Study.dir/homework/03operation/second.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/C_Study.dir/homework/03operation/second.cpp.i"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\second.cpp > CMakeFiles\C_Study.dir\homework\03operation\second.cpp.i
+
+CMakeFiles/C_Study.dir/homework/03operation/second.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/C_Study.dir/homework/03operation/second.cpp.s"
+	C:\Users\Gavin\soft\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Gavin\CLionProjects\C_Study\homework\03operation\second.cpp -o CMakeFiles\C_Study.dir\homework\03operation\second.cpp.s
+
 # Object files for target C_Study
 C_Study_OBJECTS = \
 "CMakeFiles/C_Study.dir/main.cpp.obj" \
@@ -169,7 +286,16 @@ C_Study_OBJECTS = \
 "CMakeFiles/C_Study.dir/homework/01basicExercises/sumOddNumber.cpp.obj" \
 "CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.obj" \
 "CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj" \
-"CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj"
+"CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/02data/examK.cpp.obj" \
+"CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj"
 
 # External object files for target C_Study
 C_Study_EXTERNAL_OBJECTS =
@@ -182,11 +308,20 @@ C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/sumOddNumber.cpp.o
 C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/02data/examK.cpp.obj
+C_Study.exe: CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj
 C_Study.exe: CMakeFiles/C_Study.dir/build.make
 C_Study.exe: CMakeFiles/C_Study.dir/linklibs.rsp
 C_Study.exe: CMakeFiles/C_Study.dir/objects1.rsp
 C_Study.exe: CMakeFiles/C_Study.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable C_Study.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Gavin\CLionProjects\C_Study\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Linking CXX executable C_Study.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\C_Study.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

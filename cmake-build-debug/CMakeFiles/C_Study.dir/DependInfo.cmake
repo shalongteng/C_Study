@@ -5,12 +5,21 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/IsLeapYear.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/01basicExercises/IsLeapYear.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/Istriangle.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/01basicExercises/Istriangle.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/JingjingGoesOnADate.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/01basicExercises/JingjingGoesOnADate.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/PointsAndSquares.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/01basicExercises/PointsAndSquares.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/chickenRabbit.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/01basicExercises/chickenRabbit.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/nothingWithSeven.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/01basicExercises/nothingWithSeven.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/oneCount.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/01basicExercises/oneCount.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/reverseArray.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/01basicExercises/reverseArray.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/sumOddNumber.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/01basicExercises/sumOddNumber.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/triangleArea.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/01basicExercises/triangleArea.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/bacteriaWar.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/bacteriaWar.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/examK.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/examK.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/intCount.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/intCount.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/medalCount.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/medalCount.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/02data/threeFiveSeven.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/02data/threeFiveSeven.cpp.obj"
+  "C:/Users/Gavin/CLionProjects/C_Study/homework/03operation/second.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/homework/03operation/second.cpp.obj"
   "C:/Users/Gavin/CLionProjects/C_Study/main.cpp" "C:/Users/Gavin/CLionProjects/C_Study/cmake-build-debug/CMakeFiles/C_Study.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

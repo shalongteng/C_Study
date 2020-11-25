@@ -6,9 +6,7 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/triangleArea.cpp
-iostream
--
-math.h
+C:/Users/Gavin/CLionProjects/C_Study/homework/03operation/second.cpp
+stdio.h
 -
 

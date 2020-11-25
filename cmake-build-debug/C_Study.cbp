@@ -83,13 +83,22 @@
 		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/IsLeapYear.cpp">
 			<Option target="C_Study"/>
 		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/Istriangle.cpp">
+			<Option target="C_Study"/>
+		</Unit>
 		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/JingjingGoesOnADate.cpp">
+			<Option target="C_Study"/>
+		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/PointsAndSquares.cpp">
 			<Option target="C_Study"/>
 		</Unit>
 		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/chickenRabbit.cpp">
 			<Option target="C_Study"/>
 		</Unit>
 		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/nothingWithSeven.cpp">
+			<Option target="C_Study"/>
+		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/oneCount.cpp">
 			<Option target="C_Study"/>
 		</Unit>
 		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/reverseArray.cpp">
@@ -99,6 +108,24 @@
 			<Option target="C_Study"/>
 		</Unit>
 		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/01basicExercises/triangleArea.cpp">
+			<Option target="C_Study"/>
+		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/02data/bacteriaWar.cpp">
+			<Option target="C_Study"/>
+		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/02data/examK.cpp">
+			<Option target="C_Study"/>
+		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/02data/intCount.cpp">
+			<Option target="C_Study"/>
+		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/02data/medalCount.cpp">
+			<Option target="C_Study"/>
+		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/02data/threeFiveSeven.cpp">
+			<Option target="C_Study"/>
+		</Unit>
+		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/homework/03operation/second.cpp">
 			<Option target="C_Study"/>
 		</Unit>
 		<Unit filename="C:/Users/Gavin/CLionProjects/C_Study/main.cpp">
