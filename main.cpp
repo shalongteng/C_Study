@@ -4,6 +4,7 @@
 using namespace std;
 
 //函数声明
+
 int absoulte(int n);
 int main() {
     int a =5;
