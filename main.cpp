@@ -9,7 +9,9 @@ int absoulte(int n);
 int main() {
     int a =5;
     int b = 8;
-    cout << max(a,b) << endl;
+    int *a2 = &a;
+    cout << *a2 << endl;
+//    cout << max(a,b) << endl;
     return 0;
 }
 
